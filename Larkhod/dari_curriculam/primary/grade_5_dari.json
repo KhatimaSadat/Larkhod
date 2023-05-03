@@ -1,0 +1,4037 @@
+{
+    "dari_curriculum": {
+      "primary": {
+        "label": "Eptedaiah",
+        "base_path": "/school_subjects/dari_curriculum/primary/",
+        "grades": [
+          {
+            "grade_path": "/fifth_grade/",
+            "label": "صنف پنجم",
+            "subjects": [
+              {
+                "subjet_path": "/art_subject/",
+                "label": "هنر رسامی",
+                "parts": [
+                  {
+                    "label": "ترسیم انار و بهی",
+                    "paths": [
+                      "lessons/lesson_1/lesson_1.1.jpg",
+                      "lessons/lesson_1/lesson_1.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "رنگ آمیزی انار و بهی",
+                    "paths": [
+                      "lessons/lesson_2/lesson_2.1.jpg",
+                      "/lessons/lesson_2/lesson_2.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "کاردستی",
+                    "paths": [
+                      "/lessons/lesson_3/lesson_3.1.jpg",
+                      "/lessons/lesson_3/lesson_3.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "رنگ های اصلی",
+                    "paths": [
+                      "/lessons/lesson_4/lesson_4.1.jpg",
+                      "/lessons/lesson_4/lesson_4.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "رسم تخیلی",
+                    "paths": [
+                      "/lessons/lesson_5/lesson_5.1.jpg",
+                      "/lessons/lesson_5/lesson_5.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "ترسیم سبزی ها",
+                    "paths": [
+                      "/lessons/lesson_6/lesson_6.1.jpg",
+                      "/lessons/lesson_6/lesson_6.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "رنگ آمیزی سبزی ها",
+                    "paths": [
+                      "/lessons/lesson_7/lesson_7.1.jpg",
+                      "/lessons/lesson_7/lesson_7.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "ترسیم درخت",
+                    "paths": [
+                      "/lessons/lesson_8/lesson_8.1.jpg",
+                      "/lessons/lesson_8/lesson_8.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "رسامی تخیلی",
+                    "paths": [
+                      "/lessons/lesson_9/lesson_9.1.jpg",
+                      "/lessons/lesson_9/lesson_9.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "ترسیم پاهای پرنده گان",
+                    "paths": [
+                      "/lessons/lesson_10/lesson_10.1.jpg",
+                      "/lessons/lesson_10/lesson_10.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "رنگ امیزی پاهای پرنده گان",
+                    "paths": [
+                      "/lessons/lesson_11/lesson_11.1.jpg",
+                      "/lessons/lesson_11/lesson_11.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "رنگ های بی طرف",
+                    "paths": [
+                      "/lessons/lesson_12/lesson_12.1.jpg",
+                      "/lessons/lesson_12/lesson_12.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "ترسیم اشکال هندسی",
+                    "paths": [
+                      "/lessons/lesson_13/lesson_13.1.jpg",
+                      "/lessons/lesson_13/lesson_13.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "رنگ امیزی شکل های هندسی",
+                    "paths": [
+                      "/lessons/lesson_14/lesson_14.1.jpg",
+                      "/lessons/lesson_14/lesson_14.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "ساختن کاردستی",
+                    "paths": [
+                      "/lessons/lesson_15/lesson_15.1.jpg",
+                      "/lessons/lesson_15/lesson_15.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "رسم سر گاو",
+                    "paths": [
+                      "/lessons/lesson_16/lesson_16.1.jpg",
+                      "/lessons/lesson_16/lesson_16.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "رنگ امیزی سر اسپ",
+                    "paths": [
+                      "/lessons/lesson_17/lesson_17.1.jpg",
+                      "/lessons/lesson_17/lesson_17.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "ترسیم گل",
+                    "paths": [
+                      "/lessons/lesson_18/lesson_18.1.jpg",
+                      "/lessons/lesson_18/lesson_18.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "رنگ امیزی گل",
+                    "paths": [
+                      "/lessons/lesson_19/lesson_19.1.jpg",
+                      "/lessons/lesson_19/lesson_19.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "رنگ آمیزی پرنده",
+                    "paths": [
+                      "/lessons/lesson_20/lesson_20.1.jpg",
+                      "/lessons/lesson_20/lesson_20.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "رنگ امیزی طوطی",
+                    "paths": [
+                      "/lessons/lesson_21/lesson_21.1.jpg",
+                      "/lessons/lesson_21/lesson_21.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تاپه کاری توسط برگ",
+                    "paths": [
+                      "/lessons/lesson_22/lesson_22.1.jpg",
+                      "/lessons/lesson_22/lesson_22.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "ساختن شکل ابتکاری",
+                    "paths": [
+                      "/lessons/lesson_23/lesson_23.1.jpg",
+                      "/lessons/lesson_23/lesson_23.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "ترسیم دیزاین ها",
+                    "paths": [
+                      "/lessons/lesson_24/lesson_24.1.jpg",
+                      "/lessons/lesson_24/lesson_24.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "ترسیم دیزاین",
+                    "paths": [
+                      "/lessons/lesson_25/lesson_25.1.jpg",
+                      "/lessons/lesson_25/lesson_25.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "رنگ امیزی دیزاین",
+                    "paths": [
+                      "/lessons/lesson_26/lesson_26.1.jpg",
+                      "/lessons/lesson_26/lesson_26.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "ترسیم دیزاین توسط پنسل",
+                    "paths": [
+                      "/lessons/lesson_27/lesson_27.1.jpg",
+                      "/lessons/lesson_27/lesson_27.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "رنگ امیزی لباس افغانی",
+                    "paths": [
+                      "/lessons/lesson_28/lesson_28.1.jpg",
+                      "/lessons/lesson_28/lesson_28.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "ترسیم اثار تاریخی",
+                    "paths": [
+                      "/lessons/lesson_29/lesson_29.1.jpg",
+                      "/lessons/lesson_29/lesson_29.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "کاردستی قلعه بست",
+                    "paths": [
+                      "/lessons/lesson_30/lesson_30.1.jpg",
+                      "/lessons/lesson_30/lesson_30.2.jpg;"
+                    ]
+                  }
+                ],
+                "download_pdf": "/pdf_book/art_subject.pdf"
+              },
+              {
+                "subjet_path":"/dari_subject/",
+                "label": "دری",
+                "parts": [
+                  {
+                    "label": "ستایش خداوند ج",
+                    "paths": [
+                      "/lessons/lesson_1/lesson_1.1.jpg",
+                      "/lessons/lesson_1/lesson_1.2.jpg",
+                      "/lessons/lesson_1/lesson_1.3.jpg",
+                      "/lessons/lesson_1/lesson_1.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "نعت",
+                    "paths": [
+                      "/lessons/lesson_2/lesson_2.1.jpg",
+                      "/lessons/lesson_2/lesson_2.2.jpg",
+                      "/lessons/lesson_2/lesson_2.3.jpg",
+                      "/lessons/lesson_2/lesson_2.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": " حضرت عثمان رض",
+                    "paths": [
+                      "/lessons/lesson_3/lesson_3.1.jpg",
+                      "/lessons/lesson_3/lesson_3.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "علم",
+                    "paths": [
+                      "/lessons/lesson_4/lesson_4.1.jpg",
+                      "/lessons/lesson_4/lesson_4.2.jpg",
+                      "/lessons/lesson_4/lesson_4.3.jpg",
+                      "/lessons/lesson_4/lesson_4.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "کتاب و مطالعه",
+                    "paths": [
+                      "/lessons/lesson_5/lesson_5.1.jpg",
+                      "/lessons/lesson_5/lesson_5.2.jpg",
+                      "/lessons/lesson_5/lesson_5.3.jpg",
+                      "/lessons/lesson_5/lesson_5.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "سیر علمی",
+                    "paths": [
+                      "/lessons/lesson_6/lesson_6.1.jpg",
+                      "/lessons/lesson_6/lesson_6.2.jpg",
+                      "/lessons/lesson_6/lesson_6.3.jpg",
+                      "/lessons/lesson_6/lesson_6.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "استاد مهربانم",
+                    "paths": [
+                      "/lessons/lesson_7/lesson_7.1.jpg",
+                      "/lessons/lesson_7/lesson_7.2.jpg",
+                      "/lessons/lesson_7/lesson_7.3.jpg",
+                      "/lessons/lesson_7/lesson_7.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "اولین مکتب دختران در کشور",
+                    "paths": [
+                      "/lessons/lesson_8/lesson_8.1.jpg",
+                      "/lessons/lesson_8/lesson_8.2.jpg",
+                      "/lessons/lesson_8/lesson_8.3.jpg",
+                      "/lessons/lesson_8/lesson_8.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "فعل و زمان های ان",
+                    "paths": [
+                      "/lessons/lesson_9/lesson_9.1.jpg",
+                      "/lessons/lesson_9/lesson_9.2.jpg",
+                      "/lessons/lesson_9/lesson_9.3.jpg",
+                      "/lessons/lesson_9/lesson_9.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "کار و کوشش",
+                    "paths": [
+                      "/lessons/lesson_10/lesson_10.1.jpg",
+                      "/lessons/lesson_10/lesson_10.2.jpg",
+                      "/lessons/lesson_10/lesson_10.3.jpg",
+                      "/lessons/lesson_10/lesson_10.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "حکایت",
+                    "paths": [
+                      "/lessons/lesson_11/lesson_11.1.jpg",
+                      "/lessons/lesson_11/lesson_11.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "اندرز ها",
+                    "paths": [
+                      "/lessons/lesson_12/lesson_12.1.jpg",
+                      "/lessons/lesson_12/lesson_12.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "نام من چیست",
+                    "paths": [
+                      "/lessons/lesson_13/lesson_13.1.jpg",
+                      "/lessons/lesson_13/lesson_13.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "صلح",
+                    "paths": [
+                      "/lessons/lesson_14/lesson_14.1.jpg",
+                      "/lessons/lesson_14/lesson_14.2.jpg",
+                      "/lessons/lesson_14/lesson_14.3.jpg",
+                      "/lessons/lesson_14/lesson_14.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "شهد یا عسل",
+                    "paths": [
+                      "/lessons/lesson_15/lesson_15.1.jpg",
+                      "/lessons/lesson_15/lesson_15.2.jpg",
+                      "/lessons/lesson_15/lesson_15.3.jpg",
+                      "/lessons/lesson_15/lesson_15.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "عقل سلیم در بدن سالم",
+                    "paths": [
+                      "/lessons/lesson_16/lesson_16.1.jpg",
+                      "/lessons/lesson_16/lesson_16.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "غذاهای مفید",
+                    "paths": [
+                      "/lessons/lesson_17/lesson_17.1.jpg",
+                      "/lessons/lesson_17/lesson_17.2.jpg",
+                      "/lessons/lesson_17/lesson_17.3.jpg",
+                      "/lessons/lesson_17/lesson_17.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "خطر های مین",
+                    "paths": [
+                      "/lessons/lesson_18/lesson_18.1.jpg",
+                      "/lessons/lesson_18/lesson_18.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "پیر مرد کلاه فروش",
+                    "paths": [
+                      "/lessons/lesson_19/lesson_19.1.jpg",
+                      "/lessons/lesson_19/lesson_19.2.jpg",
+                      "/lessons/lesson_19/lesson_19.3.jpg",
+                      "/lessons/lesson_19/lesson_19.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "امنه فدوی",
+                    "paths": [
+                      "/lessons/lesson_20/lesson_20.1.jpg",
+                      "/lessons/lesson_20/lesson_20.2.jpg",
+                      "/lessons/lesson_20/lesson_20.3.jpg",
+                      "/lessons/lesson_20/lesson_20.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "قید",
+                    "paths": [
+                      "/lessons/lesson_21/lesson_21.1.jpg",
+                      "/lessons/lesson_21/lesson_21.2.jpg",
+                      "/lessons/lesson_21/lesson_21.3.jpg",
+                      "lessons/lesson_21/lesson_21.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "حقوق زن",
+                    "paths": [
+                      "/lessons/lesson_22/lesson_22.1.jpg",
+                      "/lessons/lesson_22/lesson_22.2.jpg",
+                      "/lessons/lesson_22/lesson_22.3.jpg",
+                      "lessons/lesson_22/lesson_22.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "نصیحت پدر",
+                    "paths": [
+                      "/lessons/lesson_23/lesson_23.1.jpg",
+                      "/lessons/lesson_23/lesson_23.2.jpg",
+                      "/lessons/lesson_23/lesson_23.3.jpg",
+                      "/lessons/lesson_23/lesson_23.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "مادر",
+                    "paths": [
+                      "/lessons/lesson_24/lesson_24.1.jpg",
+                      "/lessons/lesson_24/lesson_24.2.jpg",
+                      "/lessons/lesson_24/lesson_24.3.jpg",
+                      "/lessons/lesson_24/lesson_24.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "حکایت",
+                    "paths": [
+                      "/lessons/lesson_25/lesson_25.1.jpg",
+                      "/lessons/lesson_25/lesson_25.2.jpg",
+                      "/lessons/lesson_25/lesson_25.3.jpg",
+                      "/lessons/lesson_25/lesson_25.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "اتحاد",
+                    "paths": [
+                      "/lessons/lesson_26/lesson_26.1.jpg",
+                      "/lessons/lesson_26/lesson_26.2.jpg",
+                      "/lessons/lesson_26/lesson_26.3.jpg",
+                      "/lessons/lesson_26/lesson_26.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "ایثار و فداکاری",
+                    "paths": [
+                      "/lessons/lesson_27/lesson_27.1.jpg",
+                      "/lessons/lesson_27/lesson_27.2.jpg",
+                      "/lessons/lesson_27/lesson_27.3.jpg",
+                      "/lessons/lesson_27/lesson_27.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "روباه و ذاغ",
+                    "paths": [
+                      "/lessons/lesson_28/lesson_28.1.jpg",
+                      "/lesson_28/lesson_28.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "اسراف",
+                    "paths": [
+                      "/lessons/lesson_29/lesson_29.1.jpg",
+                      "/lessons/lesson_29/lesson_29.2.jpg",
+                      "/lessons/lesson_29/lesson_29.3.jpg",
+                      "/lessons/lesson_29/lesson_29.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "ضرر های دروغگویی و سخن جینی",
+                    "paths": [
+                      "/lessons/lesson_30/lesson_30.1.jpg",
+                      "/lessons/lesson_30/lesson_30.2.jpg",
+                      "/lessons/lesson_30/lesson_30.3.jpg",
+                      "/lessons/lesson_30/lesson_30.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "اخلاص در عمل",
+                    "paths": [
+                      "/lessons/lesson_31/lesson_31.1.jpg",
+                      "/lessons/lesson_31/lesson_31.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "وطن",
+                    "paths": [
+                      "/lessons/lesson_32/lesson_32.1.jpg",
+                      "/lessons/lesson_32/lesson_32.2.jpg",
+                      "/lessons/lesson_32/lesson_32.3.jpg",
+                      "/lessons/lesson_32/lesson_32.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "کابل",
+                    "paths": [
+                      "/lessons/lesson_33/lesson_33.1.jpg",
+                      "/lessons/lesson_33/lesson_33.2.jpg",
+                      "/lessons/lesson_33/lesson_33.3.jpg",
+                      "/lessons/lesson_33/lesson_33.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "کلمه های مترادف و متضاد",
+                    "paths": [
+                      "/lessons/lesson_34/lesson_34.1.jpg",
+                      "/lessons/lesson_34/lesson_34.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "قصد دارلمان",
+                    "paths": [
+                      "/lessons/lesson_35/lesson_35.1.jpg",
+                      "/lessons/lesson_35/lesson_35.2.jpg",
+                      "/lessons/lesson_35/lesson_35.3.jpg",
+                      "/lessons/lesson_35/lesson_35.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "ماشین چاپ",
+                    "paths": [
+                      "/lessons/lesson_36/lesson_36.1.jpg",
+                      "/lessons/lesson_36/lesson_36.2.jpg",
+                      "/lessons/lesson_36/lesson_36.3.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "چگونه شهر خود را پاک نگهداریم",
+                    "paths": [
+                      "/lessons/lesson_37/lesson_37.1.jpg",
+                      "/lessons/lesson_37/lesson_37.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "هرات",
+                    "paths": [
+                      "/lessons/lesson_38/lesson_38.1.jpg",
+                      "/lessons/lesson_38/lesson_38.2.jpg",
+                      "/lessons/lesson_38/lesson_38.3.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "منار جام",
+                    "paths": [
+                      "/lessons/lesson_39/lesson_39.1.jpg",
+                      "/lessons/lesson_39/lesson_39.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "کندهار",
+                    "paths": [
+                      "/lessons/lesson_40/lesson_40.1.jpg",
+                      "/lessons/lesson_40/lesson_40.2.jpg",
+                      "/lessons/lesson_40/lesson_40.3.jpg;"                  
+                    ]
+                  },
+                  {
+                    "label": "ادیسن",
+                    "paths": [
+                      "/lessons/lesson_41/lesson_41.1.jpg",
+                      "/lessons/lesson_41/lesson_41.2.jpg",
+                      "/lessons/lesson_41/lesson_41.3.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "صنعت های دستی",
+                    "paths": [
+                      "/lessons/lesson_42/lesson_42.1.jpg",
+                      "/lessons/lesson_42/lesson_42.2.jpg",
+                      "/lessons/lesson_42/lesson_42.3.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "ابو علی سینا بلخی",
+                    "paths": [
+                      "/lessons/lesson_43/lesson_43.1.jpg",
+                      "/lessons/lesson_43/lesson_43.2.jpg",
+                      "/lessons/lesson_43/lesson_43.3.jpg",
+                      "/lessons/lesson_43/lesson_43.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "ابوعلی مستغنی",
+                    "paths": [
+                      "/lessons/lesson_44/lesson_44.1.jpg",
+                      "/lessons/lesson_44/lesson_44.2.jpg",
+                      "/lessons/lesson_44/lesson_44.3.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "لطیفه",
+                    "paths": [
+                      "/lessons/lesson_45/lesson_45.1.jpg",
+                      "/lessons/lesson_45/lesson_45.2.jpg",
+                      "/lessons/lesson_45/lesson_45.3.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "ابریشم",
+                    "paths": [
+                      "/lessons/lesson_46/lesson_46.1.jpg",
+                      "/lessons/lesson_46/lesson_46.2.jpg",
+                      "/lessons/lesson_46/lesson_46.3.jpg",
+                      "/lessons/lesson_46/lesson_46.4.jpg;"
+                    ]
+                  }
+                ],
+                "download_pdf":"/pdf_book/dari_subject.pdf"
+              },
+              {
+                "subjet_path":"/pashto_subject/",
+                "label": "پښتو",
+                "parts": [
+                  {
+                    "label": "قرانکریم",
+                    "paths": [
+                      "/lessons/lesson_1/lesson_1.1.jpg",
+                      "/lessons/lesson_1/lesson_1.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "حضرت عمر رض",
+                    "paths": [
+                      "/lessons/lesson_2/lesson_2.1.jpg",
+                      "/lessons/lesson_2/lesson_2.2.jpg",
+                      "/lessons/lesson_2/lesson_2.3.jpg",
+                      "/lessons/lesson_2/lesson_2.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "ښوونځی",
+                    "paths": [
+                      "/lessons/lesson_3/lesson_3.1.jpg",
+                      "/lessons/lesson_3/lesson_3.2.jpg",
+                      "/lessons/lesson_3/lesson_3.3.jpg",
+                      "/lessons/lesson_3/lesson_3.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "کتاب",
+                    "paths": [
+                      "/lessons/lesson_4/lesson_4.1.jpg",
+                      "/lessons/lesson_4/lesson_4.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "ترافیکی لارښوونی",
+                    "paths": [
+                      "/lessons/lesson_5/lesson_5.1.jpg",
+                      "/lessons/lesson_5/lesson_5.2.jpg",
+                      "/lessons/lesson_5/lesson_5.3.jpg",
+                      "/lessons/lesson_5/lesson_5.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "د نیالګیو کښینول",
+                    "paths": [
+                      "/lessons/lesson_6/lesson_6.1.jpg",
+                      "/lessons/lesson_6/lesson_6.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "چاپیریال",
+                    "paths": [
+                      "/lessons/lesson_7/lesson_7.1.jpg",
+                      "/lessons/lesson_7/lesson_7.2.jpg",
+                      "/lessons/lesson_7/lesson_7.3.jpg",
+                      "/lessons/lesson_7/lesson_7.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "ښه خواړه",
+                    "paths": [
+                      "/lessons/lesson_8/lesson_8.1.jpg",
+                      "/lessons/lesson_8/lesson_8.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "روغتیا ته پاملرنه",
+                    "paths": [
+                      "/lessons/lesson_9/lesson_9.1.jpg",
+                      "/lessons/lesson_9/lesson_9.2.jpg",
+                      "/lessons/lesson_9/lesson_9.3.jpg",
+                      "/lessons/lesson_9/lesson_9.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "د پسرلی ترانه",
+                    "paths": [
+                      "/lessons/lesson_10/lesson_10.1.jpg",
+                      "/lessons/lesson_10/lesson_10.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "کال",
+                    "paths": [
+                      "/lessons/lesson_11/lesson_11.1.jpg",
+                      "/lessons/lesson_11/lesson_11.2.jpg",
+                      "/lessons/lesson_11/lesson_11.3.jpg",
+                      "/lessons/lesson_11/lesson_11.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "له ټولګی سره مینه",
+                    "paths": [
+                      "/lessons/lesson_12/lesson_12.1.jpg",
+                      "/lessons/lesson_12/lesson_12.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "د اختر ورځ",
+                    "paths": [
+                      "/lessons/lesson_13/lesson_13.1.jpg",
+                      "/lessons/lesson_13/lesson_13.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "خپلواکی",
+                    "paths": [
+                      "/lessons/lesson_14/lesson_14.1.jpg",
+                      "/lessons/lesson_14/lesson_14.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "د ماشوم حقونه",
+                    "paths": [
+                      "/lessons/lesson_15/lesson_15.1.jpg",
+                      "/lessons/lesson_15/lesson_15.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "سوله",
+                    "paths": [
+                      "/lessons/lesson_16/lesson_16.1.jpg",
+                      "/lessons/lesson_16/lesson_16.2.jpg",
+                      "/lessons/lesson_16/lesson_16.3.jpg",
+                      "/lessons/lesson_16/lesson_16.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "جرګه",
+                    "paths": [
+                      "/lessons/lesson_17/lesson_17.1.jpg",
+                      "/lessons/lesson_17/lesson_17.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "پر حیواناتو زړه سوی",
+                    "paths": [
+                      "/lessons/lesson_18/lesson_18.1.jpg",
+                      "/lessons/lesson_18/lesson_18.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "سپین ږیری او د هغه زامن",
+                    "paths": [
+                      "/lessons/lesson_19/lesson_19.1.jpg",
+                      "/lessons/lesson_19/lesson_19.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "د مشرانو د مشورو منل",
+                    "paths": [
+                      "/lessons/lesson_20/lesson_20.1.jpg",
+                      "/lessons/lesson_20/lesson_20.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تاریخی شتمنی",
+                    "paths": [
+                      "/lessons/lesson_21/lesson_21.1.jpg",
+                      "/lessons/lesson_21/lesson_21.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "د ځارویو ګټی",
+                    "paths": [
+                      "/lessons/lesson_22/lesson_22.1.jpg",
+                      "/lessons/lesson_22/lesson_22.2.jpg",
+                      "/lessons/lesson_22/lesson_22.3.jpg",
+                      "/lessons/lesson_22/lesson_22.4.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "پاک سابه",
+                    "paths": [
+                      "/lessons/lesson_23/lesson_23.1.jpg",
+                      "/lessons/lesson_23/lesson_23.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "مرسته او دوستی",
+                    "paths": [
+                      "/lessons/lesson_24/lesson_24.1.jpg",
+                      "/lessons/lesson_24/lesson_24.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "هیواد پالنه",
+                    "paths": [
+                      "/lessons/lesson_25/lesson_25.1.jpg",
+                      "/lessons/lesson_25/lesson_25.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "انسانی حقونه",
+                    "paths": [
+                      "/lessons/lesson_26/lesson_26.1.jpg",
+                      "/lessons/lesson_26/lesson_26.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "باران",
+                    "paths": [
+                      "/lessons/lesson_27/lesson_27.1.jpg",
+                      "/lessons/lesson_27/lesson_27.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "وزلوبه",
+                    "paths": [
+                      "/lessons/lesson_28/lesson_28.1.jpg",
+                      "/lessons/lesson_28/lesson_28.2.jpg;"
+                    ]
+                  }
+                ],
+                "download_pdf":"/pdf_book/pashto_subject.pdf"
+              },
+              
+              {
+                "subjet_path":"/quran_subject/",
+                "label": "قرانکریم",
+                "parts": [
+                  {
+                    "label": "قرانکریم",
+                    "paths": [
+                      "/lessons/lesson_1/lesson_1.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "اولین وحی",
+                    "paths": [
+                      "/lessons/lesson_2/lesson_2.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیه ۱۷۸ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_3/lesson_3.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۱۷۹-۱۸۰ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_4/lesson_4.1.jpg;",
+                      "/lessons/lesson_4/lesson_4.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۱۸۱-۱۸۲ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_5/lesson_5.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": " تلاوت آیات ۱۸۳-۱۸۴ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_6/lesson_6.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیت ۱۸۵ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_7/lesson_7.1.jpg",
+                      "/lessons/lesson_7/lesson_7.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیت ۱۸۶ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_8/lesson_8.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت جز اول آیت ۱۸۷ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_9/lesson_9.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت جز دوم آیت ۱۸۷ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_10/lesson_10.1.jpg",
+                      "/lessons/lesson_10/lesson_10.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیت ۱۸۸ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_11/lesson_11.1.jpg",
+                      "/lessons/lesson_11/lesson_11.2.jp;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیت ۱۸۹ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_12/lesson_12.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۱۹۰-۱۹۱ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_13/lesson_13.1.jpg",
+                      "/lessons/lesson_13/lesson_13.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۱۹۲-۱۹۳ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_14/lesson_14.1.jpg",
+                      "/lessons/lesson_14/lesson_14.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیت ۱۹۴ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_15/lesson_15.1.jpg",
+                      "/lessons/lesson_15/lesson_15.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۱۹۵-۱۹۶ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_16/lesson_16.1.jpg",
+                      "/lessons/lesson_16/lesson_16.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت جز اخیر آیت ۱۹۶ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_17/lesson_17.1.jpg",
+                      "/lessons/lesson_17/lesson_17.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیت ۱۹۷ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_18/lesson_18.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیت ۱۹۸ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_19/lesson_19.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۱۹۹-۲۰۰ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_20/lesson_20.1.jpg",
+                      "/lessons/lesson_20/lesson_20.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۰۱-۲۰۲ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_21/lesson_21.1.jpg",
+                      "/lessons/lesson_21/lesson_21.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۰۳-۲۰۴ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_22/lesson_22.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۰۵-۲۰۶ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_23/lesson_23.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۰۷-۲۰۸ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_24/lesson_24.1.jpg",
+                      "/lessons/lesson_24/lesson_24.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۰۹-۲۱۰ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_25/lesson_25.1.jpg",
+                      "/lessons/lesson_25/lesson_25.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۱۱-۲۱۲ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_26/lesson_26.1.jpg",
+                      "/lessons/lesson_26/lesson_26.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیت ۲۱۳ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_27/lesson_27.1.jpg",
+                      "/lessons/lesson_27/lesson_27.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیت ۲۱۴ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_28/lesson_28.1.jpg",
+                      "/lessons/lesson_28/lesson_28.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیت ۲۱۵ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_29/lesson_29.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیت ۲۱۶ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_30/lesson_30.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیت ۲۱۷ سورت بقره",
+                    "paths": [
+                      "/lesson_31/lesson_31.1.jpg",
+                      "/lessons/lesson_31/lesson_31.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۱۸-۲۱۹ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_32/lesson_32.1.jpg",
+                      "/lessons/lesson_32/lesson_32.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیت ۲۲۰ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_33/lesson_33.1.jpg",
+                      "/lessons/lesson_33/lesson_33.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیت ۲۲۱ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_34/lesson_34.1.jpg",
+                      "/lessons/lesson_34/lesson_34.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۲۲-۲۲۳ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_35/lesson_35.1.jpg",
+                      "/lessons/lesson_35/lesson_35.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "سورت آیات ۲۲۴-۲۲۵ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_36/lesson_36.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۲۶-۲۲۷ سورت بقره",
+                    "paths": [
+                      "/lesson_37/lesson_37.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیت سورت ۲۲۸ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_38/lesson_38.1.jpg",
+                      "/lessons/lesson_38/lesson_38.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیت ۲۲۹ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_39/lesson_39.1.jpg",
+                      "/lessons/lesson_39/lesson_39.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیت ۲۳۰ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_40/lesson_40.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیت ۲۳۱ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_41/lesson_41.1.jpg",
+                      "/lessons/lesson_41/lesson_41.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیت ۲۳۲ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_42/lesson_42.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیت ۲۳۳ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_43/lesson_43.1.jpg",
+                      "/lessons/lesson_43/lesson_43.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۳۴-۲۳۵ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_44/lesson_44.1.jpg",
+                      "/lessons/lesson_44/lesson_44.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۳۶-۲۳۷ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_45/lesson_45.1.jpg",
+                      "/lessons/lesson_45/lesson_45.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۳۸-۲۴۰ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_46/lesson_46.1.jpg",
+                      "/lessons/lesson_46/lesson_46.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۴۱-۲۴۲ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_47/lesson_47.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۴۳-۲۴۴ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_48/lesson_48.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۴۵-۲۴۶ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_49/lesson_49.1.jpg",
+                      "/lessons/lesson_49/lesson_49.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۴۶-۲۴۷ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_50/lesson_50.1.jpg",
+                      "/lessons/lesson_50/lesson_50.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیت ۲۴۹ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_51/lesson_51.1.jpg",
+                      "/lessons/lesson_51/lesson_51.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۵۰-۲۵۲ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_52/lesson_52.1.jpg",
+                      "/lessons/lesson_52/lesson_52.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۵۳-۲۵۴ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_53/lesson_53.1.jpg",
+                      "/lessons/lesson_53/lesson_53.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۵۶-۲۵۵ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_54/lesson_54.1.jpg",
+                      "/lessons/lesson_54/lesson_54.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۵۷-۲۵۸ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_55/lesson_55.1.jpg",
+                      "/lessons/lesson_55/lesson_55.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۵۹-۲۶۰ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_56/lesson_56.1.jpg",
+                      "/lessons/lesson_56/lesson_56.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۶۱-۲۶۴ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_57/lesson_57.1.jpg",
+                      "/lessons/lesson_57/lesson_57.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۶۵-۲۶۷ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_58/lesson_58.1.jpg",
+                      "/lessons/lesson_58/lesson_58.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۸۶-۲۷۲ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_59/lesson_59.1.jpg",
+                      "/lessons/lesson_59/lesson_59.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۷۳-۲۷۵ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_60/lesson_60.1.jpg",
+                      "/lessons/lesson_60/lesson_60.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۷۶-۲۷۸ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_61/lesson_61.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۷۹-۲۸۱ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_62/lesson_62.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت جز اول آیت ۲۸۲ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_63/lesson_63.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت  جز دوم آیت ۲۸۲ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_64/lesson_64.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت جز سوم آیت ۲۸۲ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_65/lesson_65.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت جز اخر آیت ۲۸۲ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_66/lesson_66.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیات ۲۸۳-۲۸۴ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_67/lesson_67.1.jpg",
+                      "/lessons/lesson_67/lesson_67.2.jpg;"
+  
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیت ۲۸۵ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_68/lesson_68.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "تلاوت آیت ۲۸۶ سورت بقره",
+                    "paths": [
+                      "/lessons/lesson_69/lesson_69.1.jpg",
+                      "/lessons/lesson_69/lesson_69.2.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "حفظ آیات ۱-۳ سورت قدر",
+                    "paths": [
+                      "/lessons/lesson_70/lesson_70.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "حفظ آیات ۴-۵ سورت قدر",
+                    "paths": [
+                      "/lessons/lesson_71/lesson_71.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "حفظ آیات ۱-۶ سورت عادیات",
+                    "paths": [
+                      "/lessons/lesson_72/lesson_72.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "حفظ آیات ۷-۱۱ سورت عادیات",
+                    "paths": [
+                      "/lessons/lesson_73/lesson_73.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "حفظ آیات ۱-۵ سورت زلزال",
+                    "paths": [
+                      "/lessons/lesson_74/lesson_74.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "حفظ آیات ۶-۸ سورت زلزال",
+                    "paths": [
+                      "/lessons/lesson_75/lesson_75.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "حفظ آیات ۱-۴ سورت بینه",
+                    "paths": [
+                      "/lessons/lesson_76/lesson_76.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "حفظ آیات ۵-۶ سورت بینه",
+                    "paths": [
+                      "/lessons/lesson_77/lesson_77.1.jpg;"
+                    ]
+                  },
+                  {
+                    "label": "حفظ آیات ۷-۸ سورت بینه",
+                    "paths": [
+                      "/lessons/lesson_78/lesson_78.1.jpg;"
+                    ]
+                  }
+                ],
+                "download_pdf":"/pdf_book/quran_subject.pdf"
+              },
+  
+  
+              {
+                "subjet_path":"/hand_writing_subject/",
+                "label": "حسن خط",
+                "parts": [
+                  {
+                    "label": "فصل اول",
+                    "paths": [
+                      "/lessons/unit_1/unit_1.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "(نقطه گذاری حرف های (آ) و (ا",
+                        "paths": ["/lessons/unit_1/lesson_1/lesson_1.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری حرف (ب)",
+                        "paths": ["/lessons/unit_1/lesson_2/lesson_2.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری حرف (ج)",
+                        "paths": ["/lessons/unit_1/lesson_3/lesson_3.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری حرف های (د) و (ر)",
+                        "paths": ["/lessons/unit_1/lesson_4/lesson_4.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری حرف های (س) و (ص)",
+                        "paths": ["/lessons/unit_1/lesson_5/lesson_5.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری حرف (ط)",
+                        "paths": ["/lessons/unit_1/lesson_6/lesson_6.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری حرف (ع)",
+                        "paths": ["/lessons/unit_1/lesson_7/lesson_7.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری حرف (ف)",
+                        "paths": ["/lessons/unit_1/lesson_8/lesson_8.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری حرف (ق)",
+                        "paths": ["/lessons/unit_1/lesson_9/lesson_9.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری حرف های (ک) و (گ)",
+                        "paths": ["/lessons/unit_1/lesson_10/lesson_10.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری حرف (ل)",
+                        "paths": ["/lessons/unit_1/lesson_11/lesson_11.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری حرف (م)",
+                        "paths": ["/lessons/unit_1/lesson_12/lesson_12.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری حرف (ن)",
+                        "paths": ["/lessons/unit_1/lesson_13/lesson_13.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری حرف (و)",
+                        "paths": ["/lessons/unit_1/lesson_14/lesson_14.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری حرف (ه)",
+                        "paths": ["/lessons/unit_1/lesson_15/lesson_15.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری حرف (ی)",
+                        "paths": ["/lessons/unit_1/lesson_16/lesson_16.1.jpg"]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "فصل دوم",
+                    "paths": [
+                      "/lessons/unit_2/unit_2.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "نقطه گذاری کلمه آدمی",
+                        "paths": ["/lessons/unit_2/lesson_17/lesson_17.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری کلمه استاد",
+                        "paths": ["/lessons/unit_2/lesson_18/lesson_18.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری کلمه باران",
+                        "paths":  ["/lessons/unit_2/lesson_19/lesson_19.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری کلمه جهان",
+                        "paths":  ["/lessons/unit_2/lesson_20/lesson_20.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری کلمه دانا",
+                        "paths":  ["/lessons/unit_2/lesson_21/lesson_21.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری کلمه روشندلان",
+                        "paths":  ["/lessons/unit_2/lesson_22/lesson_22.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری کلمه سرزمین",
+                        "paths":  ["/lessons/unit_2/lesson_23/lesson_23.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری کلمه صبر",
+                        "paths":  ["/lessons/unit_2/lesson_24/lesson_24.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری کلمه طبیعت",
+                        "paths":  ["/lessons/unit_2/lesson_25/lesson_25.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری کلمه عمل",
+                        "paths":  ["/lessons/unit_2/lesson_26/lesson_26.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری کلمه فرزند",
+                        "paths":  ["/lessons/unit_2/lesson_27/lesson_27.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری کلمه قلم",
+                        "paths":  ["/lessons/unit_2/lesson_28/lesson_28.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری کلمه کار",
+                        "paths":  ["/lessons/unit_2/lesson_29/lesson_29.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری کلمه لاله",
+                        "paths":  ["/lessons/unit_2/lesson_30/lesson_30.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری کلمه معلم",
+                        "paths":  ["/lessons/unit_2/lesson_31/lesson_31.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری کلمه نماز",
+                        "paths":  ["/lessons/unit_2/lesson_32/lesson_32.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری کلمه وحدانیت",
+                        "paths":  ["/lessons/unit_2/lesson_33/lesson_33.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری کلمه همت",
+                        "paths":  ["/lessons/unit_2/lesson_34/lesson_34.1.jpg"]
+                      },
+                      {
+                        "label": "نقطه گذاری کلمه یارب",
+                        "paths":  ["/lessons/unit_2/lesson_35/lesson_35.1.jpg"]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "فصل سوم",
+                    "paths": [
+                      "/lessons/unit_3/unit_3.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "آدمی",
+                        "paths": ["lessons/unit_3/lesson_36/lesson_36.1.jpg"]
+                      },
+                      {
+                        "label": "استاد",
+                        "paths": ["/lessons/unit_3/lesson_37/lesson_37.1.jpg"]
+                      },
+                      {
+                        "label": "باران",
+                        "paths": ["/lessons/unit_3/lesson_38/lesson_38.1.jpg"]
+                      },
+                      {
+                        "label": "جهان",
+                        "paths": ["/lessons/unit_3/lesson_39/lesson_39.1.jpg"]
+                      },
+                      {
+                        "label": "دانا",
+                        "paths": ["/lessons/unit_3/lesson_40/lesson_40.1.jpg"]
+                      },
+                      {
+                        "label": "روشندلان",
+                        "paths": ["/lessons/unit_3/lesson_41/lesson_41.1.jpg"]
+                      },
+                      {
+                        "label": "سرزمین",
+                        "paths": ["/lessons/unit_3/lesson_42/lesson_42.1.jpg"]
+                      },
+                      {
+                        "label": "صبر",
+                        "paths": ["/lessons/unit_3/lesson_43/lesson_43.1.jpg"]
+                      },
+                      {
+                        "label": "طبیعت",
+                        "paths": ["/lessons/unit_3/lesson_44/lesson_44.1.jpg"]
+                      },
+                      {
+                        "label": "عمل",
+                        "paths": ["/lessons/unit_3/lesson_45/lesson_45.1.jpg"]
+                      },
+                      {
+                        "label": "فرزند",
+                        "paths": ["/lessons/unit_3/lesson_46/lesson_46.1.jpg"]
+                      },
+                      {
+                        "label": "قلم",
+                        "paths": ["/lessons/unit_3/lesson_47/lesson_47.1.jpg"]
+                      },
+                      {
+                        "label": "کار",
+                        "paths": ["/lessons/unit_3/lesson_48/lesson_48.1.jpg"]
+                      },
+                      {
+                        "label": "لاله",
+                        "paths": ["/lessons/unit_3/lesson_49/lesson_49.1.jpg"]
+                      },
+                      {
+                        "label": "معلم",
+                        "paths": ["/lessons/unit_3/lesson_50/lesson_50.1.jpg"]
+                      },
+                      {
+                        "label": "نماز",
+                        "paths": ["/lessons/unit_3/lesson_51/lesson_51.1.jpg"]
+                      },
+                      {
+                        "label": "وحدانیت",
+                        "paths": ["/lessons/unit_3/lesson_52/lesson_52.1.jpg"]
+                      },
+                      {
+                        "label": "همت",
+                        "paths": ["/lessons/unit_3/lesson_53/lesson_53.1.jpg"]
+                      },
+                      {
+                        "label": "یا رب",
+                        "paths": ["/lessons/unit_3/lesson_54/lesson_54.1.jpg"]
+                      }
+                    ]
+                  }
+                ],
+                "download_pdf": "/pdf_book/hand_writing_subject.pdf"
+              },
+              {
+                "subjet_path":"/islamic_study_hanafi_subject/",
+                "label": "تعلیم و تربیه اسلامی",
+                "parts": [
+                  {
+                    "label": "پیدیش کائنات",
+                    "paths": [
+                      "/lessons/lesson_1/lesson_1.1.jpg",
+                      "/lessons/lesson_1/lesson_1.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "احترام به اسلام",
+                    "paths": [
+                      "/lessons/lesson_2/lesson_2.1.jpg",
+                      "/lessons/lesson_2/lesson_2.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": " وحی ",
+                    "paths": [
+                      "/lessons/lesson_3/lesson_3.1.jpg",
+                      "/lessons/lesson_3/lesson_3.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "عصمت پیامبران (علیهم السلام)",
+                    "paths": [
+                      "/lessons/lesson_4/lesson_4.1.jpg",
+                      "/lessons/lesson_4/lesson_4.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "معجزه",
+                    "paths": [
+                      "/lessons/lesson_5/lesson_5.1.jpg",
+                      "/lessons/lesson_5/lesson_5.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "سحر (جادو)",
+                    "paths": [
+                      "/lessons/lesson_6/lesson_6.1.jpg",
+                      "/lessons/lesson_6/lesson_6.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "فال بینی",
+                    "paths": [
+                      "/lessons/lesson_7/lesson_7.1.jpg",
+                      "/lessons/lesson_7/lesson_7.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": " فال گرفتن ",
+                    "paths": [
+                      "/lessons/lesson_8/lesson_8.1.jpg",
+                      "/lessons/lesson_8/lesson_8.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "گناه های کبیره ",
+                    "paths": [
+                      "/lessons/lesson_9/lesson_9.1.jpg",
+                      "/lessons/lesson_9/lesson_9.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "نماز جمعه",
+                    "paths": [
+                      "/lessons/lesson_10/lesson_10.1.jpg",
+                      "/lessons/lesson_10/lesson_10.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "نماز جنازه (۱)",
+                    "paths": [
+                      "/lessons/lesson_11/lesson_11.1.jpg",
+                      "/lessons/lesson_11/lesson_11.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "نماز جنازه (۲)",
+                    "paths": [
+                      "/lessons/lesson_12/lesson_12.1.jpg",
+                      "/lessons/lesson_12/lesson_12.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "دعا های نماز جنازه",
+                    "paths": [
+                      "/lessons/lesson_13/lesson_13.1.jpg",
+                      "/lessons/lesson_13/lesson_13.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "نماز عید",
+                    "paths": [
+                      "/lessons/lesson_14/lesson_14.1.jpg",
+                      "/lessons/lesson_14/lesson_14.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "طریقه ادای نماز عید",
+                    "paths": [
+                      "/lessons/lesson_15/lesson_15.1.jpg",
+                      "/lessons/lesson_15/lesson_15.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "سجده تلاوت",
+                    "paths": [
+                      "/lessons/lesson_16/lesson_16.1.jpg",
+                      "/lessons/lesson_16/lesson_16.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "سجده سهو (۱)",
+                    "paths": [
+                      "/lessons/lesson_17/lesson_17.1.jpg",
+                      "/lessons/lesson_17/lesson_17.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "سجده سهو (۲)",
+                    "paths": [
+                      "/lessons/lesson_18/lesson_18.1.jpg",
+                      "/lessons/lesson_18/lesson_18.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "آداب سفر",
+                    "paths": [
+                      "/lessons/lesson_19/lesson_19.1.jpg",
+                      "/lessons/lesson_19/lesson_19.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "حفاظت زبان",
+                    "paths": [
+                      "/lessons/lesson_20/lesson_20.1.jpg",
+                      "/lessons/lesson_20/lesson_20.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "کمک و همکاری",
+                    "paths": [
+                      "/lessons/lesson_21/lesson_21.1.jpg",
+                      "/lessons/lesson_21/lesson_21.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "ضرر های بی اتفاقی",
+                    "paths": [
+                      "/lessons/lesson_22/lesson_22.1.jpg",
+                      "/lessons/lesson_22/lesson_22.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "دوست خوب",
+                    "paths": [
+                      "/lessons/lesson_23/lesson_23.1.jpg",
+                      "/lessons/lesson_23/lesson_23.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "ستون دین",
+                    "paths": [
+                      "/lessons/lesson_24/lesson_24.1.jpg",
+                      "/lessons/lesson_24/lesson_24.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "اهمیت وقت",
+                    "paths": [
+                      "/lessons/lesson_25/lesson_25.1.jpg",
+                      "/lessons/lesson_25/lesson_25.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "حقوق پنجگانه مسلمان",
+                    "paths": [
+                      "/lessons/lesson_26/lesson_26.1.jpg",
+                      "/lessons/lesson_26/lesson_26.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "فضایل سلام",
+                    "paths": [
+                      "/lessons/lesson_27/lesson_27.1.jpg",
+                      "/lessons/lesson_27/lesson_27.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "غیبت",
+                    "paths": [
+                      "/lessons/lesson_28/lesson_28.1.jpg",
+                      "/lessons/lesson_28/lesson_28.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "دروغ گفتن",
+                    "paths": [
+                      "/lessons/lesson_29/lesson_29.1.jpg",
+                      "/lessons/lesson_29/lesson_29.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "عفو کردن",
+                    "paths": [
+                      "/lessons/lesson_30/lesson_30.1.jpg",
+                      "/lessons/lesson_30/lesson_30.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "قناعت",
+                    "paths": [
+                      "/lessons/lesson_31/lesson_31.1.jpg",
+                      "/lessons/lesson_31/lesson_31.2.jpg"
+                    ]
+                  },
+                  {
+                    "label": "فضایل صبر",
+                    "paths": [
+                      "/lessons/lesson_32/lesson_32.1.jpg",
+                      "/lessons/lesson_32/lesson_32.2.jpg"
+                    ]
+                  }
+                ],
+                "download_pdf":"/pdf_book/islamic_study_hanafi_subject.pdf"
+              },
+  
+  
+              {
+                "subjet_path":"/islamic_study_jafari_subject/",
+                "label": "تعلیم و تربیه اسلامی(مذهب جعفری)",
+                "parts": [
+                  {
+                    "label": "فصل اول",
+                    "paths": [
+                     "/lessons/unit_1/unit_1.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "توحید",
+                        "paths": ["/lessons/unit_1/lesson_1/lesson_1.1.jpg",
+                        "/lessons/unit_1/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "اقسام توحید",
+                        "paths": ["/lessons/unit_1/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_1/lesson_2/lesson_2.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "توحید ذاتی",
+                        "paths":  ["/lessons/unit_1/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_1/lesson_3/lesson_3.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "توحید صفاتی",
+                        "paths":  ["/lessons/unit_1/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_1/lesson_4/lesson_4.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "توحید عبادی",
+                        "paths":  ["/lessons/unit_1/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_1/lesson_5/lesson_5.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "توحید افعالی",
+                        "paths":  ["/lessons/unit_1/lesson_6/lesson_6.1.jpg",
+                        "/lessons/unit_1/lesson_6/lesson_6.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "صفات خداوند (ج)",
+                        "paths":  ["/lessons/unit_1/lesson_7/lesson_7.1.jpg",
+                        "/lessons/unit_1/lesson_7/lesson_7.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "صفاتی ثبوتی",
+                        "paths":  ["/lessons/unit_1/lesson_8/lesson_8.1.jpg",
+                        "/lessons/unit_1/lesson_8/lesson_8.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "صفات سلبی",
+                        "paths":  ["/lessons/unit_1/lesson_9/lesson_9.1.jpg",
+                        "/lessons/unit_1/lesson_9/lesson_9.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "عصمت پیامبران (علیهم السلام)",
+                        "paths":  ["/lessons/unit_1/lesson_10/lesson_10.1.jpg",
+                        "/lessons/unit_1/lesson_10/lesson_10.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "معجزه",
+                        "paths":  ["/lessons/unit_1/lesson_11/lesson_11.1.jpg",
+                        "/lessons/unit_1/lesson_11/lesson_11.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "معجزات رسول گرامی اسلام",
+                        "paths":  ["/lessons/unit_1/lesson_12/lesson_12.1.jpg",
+                        "/lessons/unit_1/lesson_12/lesson_12.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "نبی رحمت",
+                        "paths":  ["/lessons/unit_1/lesson_13/lesson_13.1.jpg",
+                        "/lessons/unit_1/lesson_13/lesson_13.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "امامان خود را بشناسیم",
+                        "paths":  ["/lessons/unit_1/lesson_14/lesson_14.1.jpg",
+                        "/lessons/unit_1/lesson_14/lesson_14.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "معاد",
+                        "paths":  ["/lessons/unit_1/lesson_15/lesson_15.1.jpg",
+                        "/lessons/unit_1/lesson_15/lesson_15.2.jpg",
+                        "/lessons/unit_1/lesson_15/lesson_15.3.jpg"
+                      ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "فصل دوم",
+                    "paths": [
+                      "/lessons/unit_2/unit_2.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "احکام تیمم",
+                        "paths":  ["/lessons/unit_2/lesson_16/lesson_16.1.jpg",
+                        "/lessons/unit_2/lesson_16/lesson_16.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "چیزهایی که تیمم بر آن ها جایز است",
+                        "paths":  ["/lessons/unit_2/lesson_17/lesson_17.1.jpg",
+                        "/lessons/unit_2/lesson_17/lesson_17.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "مکروهات نماز",
+                        "paths":  ["/lessons/unit_2/lesson_18/lesson_18.1.jpg",
+                        "/lessons/unit_2/lesson_18/lesson_18.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "سجده سهو",
+                        "paths":  ["/lessons/unit_2/lesson_19/lesson_19.1.jpg",
+                        "/lessons/unit_2/lesson_19/lesson_19.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "نماز جماعت",
+                        "paths":  ["/lessons/unit_2/lesson_20/lesson_20.1.jpg",
+                        "/lessons/unit_2/lesson_20/lesson_20.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "احکام نماز جماعت",
+                        "paths":  ["/lessons/unit_2/lesson_21/lesson_21.1.jpg",
+                        "/lessons/unit_2/lesson_21/lesson_21.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "نماز آیات",
+                        "paths":  ["/lessons/unit_2/lesson_22/lesson_22.1.jpg",
+                        "/lessons/unit_2/lesson_22/lesson_22.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "احکام نماز آیات",
+                        "paths":  ["/lessons/unit_2/lesson_23/lesson_23.1.jpg",
+                        "/lessons/unit_2/lesson_23/lesson_23.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "نماز جمعه",
+                        "paths":  ["/lessons/unit_2/lesson_24/lesson_24.1.jpg",
+                        "/lessons/unit_2/lesson_24/lesson_24.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "احکام نماز جمعه",
+                        "paths":  ["/lessons/unit_2/lesson_25/lesson_25.1.jpg",
+                        "/lessons/unit_2/lesson_25/lesson_25.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "نماز عیدین",
+                        "paths":  ["/lessons/unit_2/lesson_26/lesson_26.1.jpg",
+                        "/lessons/unit_2/lesson_26/lesson_26.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "نماز قضا و احکام آن",
+                        "paths":  ["/lessons/unit_2/lesson_27/lesson_27.1.jpg",
+                        "/lessons/unit_2/lesson_27/lesson_27.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "نماز مسافر",
+                        "paths":  ["/lessons/unit_2/lesson_28/lesson_28.1.jpg",
+                        "/lessons/unit_2/lesson_28/lesson_28.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "احکام نماز سفر",
+                        "paths":  ["/lessons/unit_2/lesson_29/lesson_29.1.jpg",
+                        "/lessons/unit_2/lesson_29/lesson_29.2.jpg",
+                        "/lessons/unit_2/lesson_29/lesson_29.3.jpg"
+                      ]
+                      }
+                    ]
+                  },
+                  {
+                    
+                    "label": "فصل سوم",
+                    "paths": [
+                      "/lessons/unit_3/unit_3.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "اخلاق نیک",
+                        "paths":  ["/lessons/unit_3/lesson_30/lesson_30.1.jpg",
+                        "/lessons/unit_3/lesson_30/lesson_30.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "وفای به عهد",
+                        "paths":  ["/lessons/unit_3/lesson_31/lesson_31.1.jpg",
+                        "/lessons/unit_3/lesson_31/lesson_31.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "نظم در زنده گی",
+                        "paths":  ["/lessons/unit_3/lesson_32/lesson_32.1.jpg",
+                        "/lessons/unit_3/lesson_32/lesson_32.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "عیادت مریض",
+                        "paths":  ["/lessons/unit_3/lesson_33/lesson_33.1.jpg",
+                        "/lessons/unit_3/lesson_33/lesson_33.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "عفو و گذشت",
+                        "paths":  ["/lessons/unit_3/lesson_34/lesson_34.1.jpg",
+                        "/lessons/unit_3/lesson_34/lesson_34.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "اهمیت صلح در اسلام",
+                        "paths":  ["/lessons/unit_3/lesson_35/lesson_35.1.jpg",
+                        "/lessons/unit_3/lesson_35/lesson_35.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "ارزش صحت در اسلام",
+                        "paths":  ["/lessons/unit_3/lesson_36/lesson_36.1.jpg",
+                        "/lessons/unit_3/lesson_36/lesson_36.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "مشورت در اسلام",
+                        "paths":  ["/lessons/unit_3/lesson_37/lesson_37.1.jpg",
+                        "/lessons/unit_3/lesson_37/lesson_37.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "تعاون و همکاری",
+                        "paths":  ["/lessons/unit_3/lesson_38/lesson_38.1.jpg",
+                        "/lessons/unit_3/lesson_38/lesson_38.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "انتخاب رفیق خوب",
+                        "paths":  ["/lessons/unit_3/lesson_39/lesson_39.1.jpg"
+                      ]
+                      }
+                    ]
+                  }
+                ],
+                "download_pdf":"/pdf_book/islamic_study_jafari_subject.pdf"
+              },
+              {
+                "subjet_path":"/math_subject/",
+                "label": "ریاضی",
+                "parts": [
+                  {
+                    "label": "فصل اول",
+                    "paths": [
+                      "/lessons/unit_1/unit_1.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "درس اول",
+                        "paths": ["lessons/unit_1/lesson_1/lesson_1.1.jpg",
+                        "/lessons/unit_1/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس دوم",
+                        "paths": ["/lessons/unit_1/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_1/lesson_2/lesson_2.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس سوم",
+                        "paths": ["/lessons/unit_1/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_1/lesson_3/lesson_3.2.jpg",
+                        "/lessons/unit_1/lesson_3/lesson_3.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس چهارم",
+                        "paths": ["/lessons/unit_1/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_1/lesson_4/lesson_4.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس پنجم",
+                        "paths": ["/lessons/unit_1/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_1/lesson_5/lesson_5.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس ششم ",
+                        "paths": ["/lessons/unit_1/lesson_6/lesson_6.1.jpg",
+                        "/lessons/unit_1/lesson_6/lesson_6.2.jpg",
+                        "/lessons/unit_1/lesson_6/lesson_6.3.jpg",
+                        "/lessons/unit_1/lesson_6/lesson_6.4.jpg"
+                      ]
+                      },
+                      {
+                        "label": " درس هفتم  ",
+                        "paths": ["/lessons/unit_1/lesson_7/lesson_7.1.jpg",
+                        "/lessons/unit_1/lesson_7/lesson_7.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس هشتم ",
+                        "paths": ["/lessons/unit_1/lesson_8/lesson_8.1.jpg",
+                        "/lessons/unit_1/lesson_8/lesson_8.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس نهم ",
+                        "paths": ["/lessons/unit_1/lesson_9/lesson_9.1.jpg",
+                        "/lessons/unit_1/lesson_9/lesson_9.2.jpg"
+                      ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "فصل دوم",
+                    "paths": [
+                      "/lessons/unit_2/unit_2.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "درس اول",
+                        "paths": ["/lessons/unit_2/lesson_1/lesson_1.1.jpg",
+                        "/lessons/unit_2/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس دوم",
+                        "paths": ["lessons/unit_2/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_2/lesson_2/lesson_2.2.jpg",
+                        "/lessons/unit_2/lesson_2/lesson_2.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس سوم",
+                        "paths": ["/lessons/unit_2/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_2/lesson_3/lesson_3.2.jpg",
+                        "/lessons/unit_2/lesson_3/lesson_3.3.jpg",
+                        "/lessons/unit_2/lesson_3/lesson_3.4.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس چهارم",
+                        "paths": ["/lessons/unit_2/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_2/lesson_4/lesson_4.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس پنجم",
+                        "paths": ["/lessons/unit_2/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_2/lesson_5/lesson_5.2.jpg",
+                        "/lessons/unit_2/lesson_5/lesson_5.3.jpg",
+                        "/lessons/unit_2/lesson_5/lesson_5.4.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس ششم ",
+                        "paths": ["/lessons/unit_2/lesson_6/lesson_6.1.jpg",
+                        "/lessons/unit_2/lesson_6/lesson_6.2.jpg",
+                        "/lessons/unit_2/lesson_6/lesson_6.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": " درس هفتم  ",
+                        "paths": ["/lessons/unit_2/lesson_7/lesson_7.1.jpg",
+                        "/lessons/unit_2/lesson_7/lesson_7.2.jpg",
+                        "/lessons/unit_2/lesson_7/lesson_7.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس هشتم ",
+                        "paths": ["/lessons/unit_2/lesson_8/lesson_8.1.jpg",
+                        "/lessons/unit_2/lesson_8/lesson_8.2.jpg",
+                        "/lessons/unit_2/lesson_8/lesson_8.3.jpg",
+                        "/lessons/unit_2/lesson_8/lesson_8.4.jpg",
+                        "/lessons/unit_2/lesson_8/lesson_8.5.jpg"
+                      ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "فصل سوم",
+                    "paths": [
+                      "/lessons/unit_3/unit_3.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "درس اول",
+                        "paths": ["/lessons/unit_3/lesson_1/lesson_1.1.jpg",
+                        "/lessons/unit_3/lesson_1/lesson_1.2.jpg",
+                        "/lessons/unit_3/lesson_1/lesson_1.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس دوم",
+                        "paths": ["/lessons/unit_3/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_3/lesson_2/lesson_2.2.jpg",
+                        "/lessons/unit_3/lesson_2/lesson_2.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس سوم",
+                        "paths": ["/lessons/unit_3/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_3/lesson_3/lesson_3.2.jpg",
+                        "/lessons/unit_3/lesson_3/lesson_3.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس چهارم",
+                        "paths": ["/lessons/unit_3/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_3/lesson_4/lesson_4.2.jpg",
+                        "/lessons/unit_3/lesson_4/lesson_4.3.jpg",
+                        "/lessons/unit_3/lesson_4/lesson_4.4.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس پنجم",
+                        "paths": ["/lessons/unit_3/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_3/lesson_5/lesson_5.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس ششم ",
+                        "paths": ["/lessons/unit_3/lesson_6/lesson_6.1.jpg",
+                        "/lessons/unit_3/lesson_6/lesson_6.2.jpg",
+                        "/lessons/unit_3/lesson_6/lesson_6.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": " درس هفتم  ",
+                        "paths": ["/lessons/unit_3/lesson_7/lesson_7.1.jpg",
+                        "/lessons/unit_3/lesson_7/lesson_7.2.jpg",
+                        "/lessons/unit_3/lesson_7/lesson_7.3.jpg",
+                        "/lessons/unit_3/lesson_7/lesson_7.4.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس هشتم ",
+                        "paths": ["/lessons/unit_3/lesson_8/lesson_8.1.jpg",
+                        "/lessons/unit_3/lesson_8/lesson_8.2.jpg",
+                        "/lessons/unit_3/lesson_8/lesson_8.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس نهم ",
+                        "paths": ["/lessons/unit_3/lesson_9/lesson_9.1.jpg",
+                        "/lessons/unit_3/lesson_9/lesson_9.2.jpg",
+                        "/lessons/unit_3/lesson_9/lesson_9.3.jpg",
+                        "/lessons/unit_3/lesson_9/lesson_9.4.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس دهم ",
+                        "paths": ["/lessons/unit_3/lesson_10/lesson_10.1.jpg",
+                        "/lessons/unit_3/lesson_10/lesson_10.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس یازدهم ",
+                        "paths": ["/lessons/unit_3/lesson_11/lesson_11.1.jpg",
+                        "/lessons/unit_3/lesson_11/lesson_11.2.jpg",
+                        "/lessons/unit_3/lesson_11/lesson_11.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس دوازدهم ",
+                        "paths": ["/lessons/unit_3/lesson_12/lesson_12.1.jpg",
+                        "/lessons/unit_3/lesson_12/lesson_12.2.jpg",
+                        "/lessons/unit_3/lesson_12/lesson_12.3.jpg",
+                        "/lessons/unit_3/lesson_12/lesson_12.4.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس سیزدهم ",
+                        "paths": ["/lessons/unit_3/lesson_13/lesson_13.1.jpg",
+                        "/lessons/unit_3/lesson_13/lesson_13.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس چهاردهم ",
+                        "paths": ["/lessons/unit_3/lesson_14/lesson_14.1.jpg",
+                        "/lessons/unit_3/lesson_14/lesson_14.2.jpg",
+                        "/lessons/unit_3/lesson_14/lesson_14.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس پانزدهم ",
+                        "paths": ["/lessons/unit_3/lesson_15/lesson_15.1.jpg",
+                        "/lessons/unit_3/lesson_15/lesson_15.2.jpg",
+                        "/lessons/unit_3/lesson_15/lesson_15.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس شانزدهم ",
+                        "paths": ["/lessons/unit_3/lesson_16/lesson_16.1.jpg",
+                        "/lessons/unit_3/lesson_16/lesson_16.2.jpg",
+                        "/lessons/unit_3/lesson_16/lesson_16.3.jpg"
+                      ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "فصل چهارم",
+                    "paths": [
+                      "/lessons/unit_4/unit_4.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "درس اول",
+                        "paths": ["/lessons/unit_4/lesson_1/lesson_1.1.jpg",
+                        "/lessons/unit_4/lesson_1/lesson_1.2.jpg",
+                        "/lessons/unit_4/lesson_1/lesson_1.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس دوم",
+                        "paths": ["/lessons/unit_4/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_4/lesson_2/lesson_2.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس سوم",
+                        "paths": ["/lessons/unit_4/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_4/lesson_3/lesson_3.2.jpg",
+                        "/lessons/unit_4/lesson_3/lesson_3.3.jpg",
+                        "/lessons/unit_4/lesson_3/lesson_3.4.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس چهارم",
+                        "paths": ["/lessons/unit_4/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_4/lesson_4/lesson_4.2.jpg",
+                        "/lessons/unit_4/lesson_4/lesson_4.3.jpg",
+                        "/lessons/unit_4/lesson_4/lesson_4.4.jpg",
+                        "/lessons/unit_4/lesson_4/lesson_4.5.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس پنجم",
+                        "paths": ["/lessons/unit_4/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_4/lesson_5/lesson_5.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس ششم ",
+                        "paths": ["/lessons/unit_4/lesson_6/lesson_6.1.jpg",
+                        "/lessons/unit_4/lesson_6/lesson_6.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " درس هفتم  ",
+                        "paths": ["/lessons/unit_4/lesson_7/lesson_7.1.jpg",
+                        "/lessons/unit_4/lesson_7/lesson_7.2.jpg",
+                        "/lessons/unit_4/lesson_7/lesson_7.3.jpg"
+                      ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "فصل پنجم",
+                    "paths": [
+                      "/lessons/unit_5/unit_5.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "درس اول",
+                        "paths": ["/lessons/unit_5/lesson_1/lesson_1.1.jpg",
+                        "/lessons/unit_5/lesson_1/lesson_1.2.jpg",
+                        "/lessons/unit_5/lesson_1/lesson_1.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس دوم",
+                        "paths": ["/lessons/unit_5/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_5/lesson_2/lesson_2.2.jpg",
+                        "/lessons/unit_5/lesson_2/lesson_2.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس سوم",
+                        "paths": ["/lessons/unit_5/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_5/lesson_3/lesson_3.2.jpg",
+                        "/lessons/unit_5/lesson_3/lesson_3.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس چهارم",
+                        "paths": ["/lessons/unit_5/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_5/lesson_4/lesson_4.2.jpg",
+                        "/lessons/unit_5/lesson_4/lesson_4.3.jpg",
+                        "/lessons/unit_5/lesson_4/lesson_4.4.jpg",
+                        "/lessons/unit_5/lesson_4/lesson_4.5.jpg",
+                        "/lessons/unit_5/lesson_4/lesson_4.6.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس پنجم",
+                        "paths": ["/lessons/unit_5/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_5/lesson_5/lesson_5.2.jpg",
+                        "/lessons/unit_5/lesson_5/lesson_5.3.jpg",
+                        "/lessons/unit_5/lesson_5/lesson_5.4.jpg",
+                        "/lessons/unit_5/lesson_5/lesson_5.5.jpg",
+                        "/lessons/unit_5/lesson_5/lesson_5.6.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس ششم ",
+                        "paths": ["/lessons/unit_5/lesson_6/lesson_6.1.jpg",
+                        "/lessons/unit_5/lesson_6/lesson_6.2.jpg",
+                        "/lessons/unit_5/lesson_6/lesson_6.3.jpg",
+                        "/lessons/unit_5/lesson_6/lesson_6.4.jpg"
+                      ]
+                      },
+                      {
+                        "label": " درس هفتم  ",
+                        "paths": ["/lessons/unit_5/lesson_7/lesson_7.1.jpg",
+                        "/lessons/unit_5/lesson_7/lesson_7.2.jpg",
+                        "/lessons/unit_5/lesson_7/lesson_7.3.jpg",
+                        "lessons/unit_5/lesson_7/lesson_7.4.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس هشتم ",
+                        "paths": ["/lessons/unit_5/lesson_8/lesson_8.1.jpg",
+                        "/lessons/unit_5/lesson_8/lesson_8.2.jpg",
+                        "/lessons/unit_5/lesson_8/lesson_8.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس نهم ",
+                        "paths": ["/lessons/unit_5/lesson_9/lesson_9.1.jpg",
+                        "/lessons/unit_5/lesson_9/lesson_9.2.jpg",
+                        "/lessons/unit_5/lesson_9/lesson_9.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس دهم ",
+                        "paths": ["/lessons/unit_5/lesson_10/lesson_10.1.jpg",
+                        "/lessons/unit_5/lesson_10/lesson_10.2.jpg",
+                        "/lessons/unit_5/lesson_10/lesson_10.3.jpg",
+                        "/lessons/unit_5/lesson_10/lesson_10.4.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس یازدهم ",
+                        "paths": ["/lessons/unit_5/lesson_11/lesson_11.1.jpg",
+                        "/lessons/unit_5/lesson_11/lesson_11.2.jpg",
+                        "/lessons/unit_5/lesson_11/lesson_11.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس دوازدهم ",
+                        "paths": ["/lessons/unit_5/lesson_12/lesson_12.1.jpg",
+                        "/lessons/unit_5/lesson_12/lesson_12.2.jpg",
+                        "/lessons/unit_5/lesson_12/lesson_12.3.jpg"
+                      ]
+                      },
+                      
+                      {
+                        "label": "درس سیزدهم ",
+                        "paths": ["/lessons/unit_5/lesson_13/lesson_13.1.jpg",
+                        "/lessons/unit_5/lesson_13/lesson_13.2.jpg",
+                        "/lessons/unit_5/lesson_13/lesson_13.3.jpg",
+                        "/lessons/unit_5/lesson_13/lesson_13.4.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس چهاردهم ",
+                        "paths": ["/lessons/unit_5/lesson_14/lesson_14.1.jpg",
+                        "/lessons/unit_5/lesson_14/lesson_14.2.jpg",
+                        "/lessons/unit_5/lesson_14/lesson_14.3.jpg"
+                      ]
+                      },
+                     
+                      {
+                        "label": "درس  پانزدهم",
+                        "paths": ["/lessons/unit_5/lesson_15/lesson_15.1.jpg",
+                        "/lessons/unit_5/lesson_15/lesson_15.2.jpg",
+                        "/lessons/unit_5/lesson_15/lesson_15.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس  شانزدهم",
+                        "paths": ["/lessons/unit_5/lesson_16/lesson_16.1.jpg",
+                        "/lessons/unit_5/lesson_16/lesson_16.2.jpg",
+                        "/lessons/unit_5/lesson_16/lesson_16.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس  هفدهم",
+                        "paths": ["/lessons/unit_5/lesson_17/lesson_17.1.jpg",
+                        "/lessons/unit_5/lesson_17/lesson_17.2.jpg",
+                        "/lessons/unit_5/lesson_17/lesson_17.3.jpg",
+                        "/lessons/unit_5/lesson_17/lesson_17.4.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس هژدهم",
+                        "paths": ["/lessons/unit_5/lesson_18/lesson_18.1.jpg",
+                        "/lessons/unit_5/lesson_18/lesson_18.2.jpg",
+                        "/lessons/unit_5/lesson_18/lesson_18.3.jpg"
+                        
+                      ]
+                      },
+                      {
+                        "label": "درس نزدهم",
+                        "paths": ["/lessons/unit_5/lesson_19/lesson_19.1.jpg",
+                        "/lessons/unit_5/lesson_19/lesson_19.2.jpg",
+                        "/lessons/unit_5/lesson_19/lesson_19.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس  بیستم",
+                        "paths": ["/lessons/unit_5/lesson_20/lesson_20.1.jpg",
+                        "/lessons/unit_5/lesson_20/lesson_20.2.jpg",
+                        "/lessons/unit_5/lesson_20/lesson_20.3.jpg",
+                        "/lessons/unit_5/lesson_20/lesson_20.4.jpg",
+                        "/lessons/unit_5/lesson_20/lesson_20.5.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس  بیست و یکم",
+                        "paths": ["/lessons/unit_5/lesson_21/lesson_21.1.jpg",
+                        "/lessons/unit_5/lesson_21/lesson_21.2.jpg",
+                        "/lessons/unit_5/lesson_21/lesson_21.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس  بیست و دوم",
+                        "paths": ["/math/lessons/unit_5/lesson_22/lesson_22.1.jpg",
+                        "/lessons/unit_5/lesson_22/lesson_22.2.jpg",
+                        "/lessons/unit_5/lesson_22/lesson_22.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس  بیست و سوم",
+                        "paths": ["/lessons/unit_5/lesson_23/lesson_23.1.jpg",
+                        "/lessons/unit_5/lesson_23/lesson_23.2.jpg",
+                        "/lessons/unit_5/lesson_23/lesson_23.3.jpg",
+                        "/lessons/unit_5/lesson_23/lesson_23.4.jpg",
+                        "/lessons/unit_5/lesson_23/lesson_23.5.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس  بیست و چهارم",
+                        "paths": ["/lessons/unit_5/lesson_24/lesson_24.1.jpg",
+                        "/lessons/unit_5/lesson_24/lesson_24.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس  بیست و پنجم",
+                        "paths": ["/lessons/unit_5/lesson_25/lesson_25.1.jpg",
+                        "/lessons/unit_5/lesson_25/lesson_25.2.jpg",
+                        "/lessons/unit_5/lesson_25/lesson_25.3.jpg"
+                      ]
+                      }
+                      ,
+                      {
+                        "label": "درس  بیست و ششم",
+                        "paths": ["/lessons/unit_5/lesson_26/lesson_26.1.jpg",
+                        "/lessons/unit_5/lesson_26/lesson_26.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس  بیست و هفتم",
+                        "paths": ["/lessons/unit_5/lesson_27/lesson_27.1.jpg",
+                        "/lessons/unit_5/lesson_27/lesson_27.2.jpg",
+                        "/lessons/unit_5/lesson_27/lesson_27.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "درس  بیست و هشتم",
+                        "paths": ["/lessons/unit_5/lesson_28/lesson_28.1.jpg",
+                        "/lessons/unit_5/lesson_28/lesson_28.2.jpg",
+                        "/lessons/unit_5/lesson_28/lesson_28.3.jpg",
+                        "/lessons/unit_5/lesson_28/lesson_28.4.jpg"
+                      ]
+                      }
+                    ]
+                  }
+                ],
+                "download_pdf":"/pdf_book/math_subject.pdf"
+              },
+  
+              {
+                "subjet_path":"/science_subject_/",
+                "label": "ساینس",
+                "parts": [
+                  {
+                    "label": "فصل اول: اجسام زنده",
+                    "paths": [
+                      "/lessons/unit_1/unit_1.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "خواص اجسام زنده",
+                        "paths": ["lessons/unit_1/lesson_1/lesson_1.1.jpg",
+                        "lessons/unit_1/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "تغذیه",
+                        "paths": ["/lessons/unit_1/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_1/lesson_2/lesson_2.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "تنفس",
+                        "paths": ["/lessons/unit_1/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_1/lesson_3/lesson_3.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "تکثر (ازیاد نسل)",
+                        "paths": ["/lessons/unit_1/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_1/lesson_4/lesson_4.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "نمو (کلان شدن)",
+                        "paths": ["/lessons/unit_1/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_1/lesson_5/lesson_5.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "عکس العمل",
+                        "paths": ["/lessons/unit_1/lesson_6/lesson_6.1.jpg",
+                        "/lessons/unit_1/lesson_6/lesson_6.2.jpg"
+                      ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "فصل دوم: ساختمان بدن انسان",
+                    "paths": [
+                      "/lessons/unit_2/unit_2.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "ساختمان بدن انسان",
+                        "paths": ["/lessons/unit_2/lesson_1/lesson_1.1.jpg",
+                        "/lessons/unit_1/lesson_2/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "اسکلیت",
+                        "paths": ["/lessons/unit_2/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_2/lesson_2/lesson_2.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "جمجمه",
+                        "paths": ["/lessons/unit_2/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_2/lesson_3/lesson_3.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " ستون فقرات",
+                        "paths": ["/lessons/unit_2/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_2/lesson_4/lesson_4.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "قبرغه ها",
+                        "paths": ["/lessons/unit_2/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_2/lesson_5/lesson_5.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "استخوان های اطراف علیا و سفلای بدن ",
+                        "paths": ["/lessons/unit_2/lesson_6/lesson_6.1.jpg",
+                        "/lessons/unit_2/lesson_6/lesson_6.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " عضلات",
+                        "paths": ["/lessons/unit_2/lesson_7/lesson_7.1.jpg",
+                        "/lessons/unit_2/lesson_7/lesson_7.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " عضلات ارادی",
+                        "paths": ["/lessons/unit_2/lesson_8/lesson_8.1.jpg",
+                        "/lessons/unit_2/lesson_8/lesson_8.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " عضلات غیر ارادی",
+                        "paths": ["/lessons/unit_2/lesson_9/lesson_9.1.jpg",
+                        "/lessons/unit_2/lesson_9/lesson_9.2.jpg"
+                      ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "فصل سوم: ماده و خواص آن",
+                    "paths": [
+                      "/lessons/unit_3/unit_3.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "ماده",
+                        "paths": ["/lessons/unit_3/lesson_1/lesson_1.1.jpg",
+                        "/lessons/unit_1/lesson_3/lesson_1.2.jpg",
+                        "/lessons/unit_1/lesson_3/lesson_1.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "خواص ماده",
+                        "paths": ["/lessons/unit_3/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_3/lesson_2/lesson_2.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "کثافت",
+                        "paths": ["/lessons/unit_3/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_3/lesson_3/lesson_3.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "انحلالیت",
+                        "paths": ["/lessons/unit_3/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_3/lesson_4/lesson_4.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "نقطه ذوبان",
+                        "paths": ["/lessons/unit_3/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_3/lesson_5/lesson_5.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "نقطه غلیان(جوش)",
+                        "paths": ["/lessons/unit_3/lesson_6/lesson_6.1.jpg",
+                        "/lessons/unit_3/lesson_6/lesson_6.2.jpg"
+                      ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "فصل چهارم: اقلیم (آب و هوا)",
+                    "paths": [
+                      "/lessons/unit_4/unit_4.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "اقلیم چیست",
+                        "paths": ["/lessons/unit_4/lesson_1/lesson_1.1.jpg",
+                        "/lessons/unit_1/lesson_4/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " عامل باد",
+                        "paths": ["/lessons/unit_4/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_4/lesson_2/lesson_2.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "بارندگی و تشکل آن",
+                        "paths": ["/lessons/unit_4/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_4/lesson_3/lesson_3.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "تبخیر",
+                        "paths": ["/lessons/unit_4/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_4/lesson_4/lesson_4.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " تراکم",
+                        "paths": ["/lessons/unit_4/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_4/lesson_5/lesson_5.2.jpg",
+                        "/lessons/unit_4/lesson_5/lesson_5.3.jpg"
+                      ]
+                      }
+                      ]
+                  },
+                  {
+                    "label": "فصل پنجم: نظام شمسی",
+                    "paths": [
+                      "/lessons/unit_5/unit_5.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "نظام چیست؟",
+                        "paths": ["/lessons/unit_5/lesson_1/lesson_1.1.jpg",
+                        "/lessons/unit_5/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "آفتاب و ستاره ها",
+                        "paths": ["/lessons/unit_5/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_5/lesson_2/lesson_2.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "سیاره ها",
+                        "paths": ["/lessons/unit_5/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_5/lesson_3/lesson_3.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "زمین ",
+                        "paths": ["/lessons/unit_5/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_5/lesson_4/lesson_4.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "قمر (مهتاب) ",
+                        "paths": ["/lessons/unit_5/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_5/lesson_5/lesson_5.2.jpg",
+                        "/lessons/unitه_5/lesson_5/lesson_5.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "روز و شب ",
+                        "paths": ["/lessons/unit_5/lesson_6/lesson_6.1.jpg",
+                        "/lessons/unit_5/lesson_6/lesson_6.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " سال و ماه",
+                        "paths": ["/lessons/unit_5/lesson_7/lesson_7.1.jpg",
+                        "/lessons/unit_5/lesson_7/lesson_7.2.jpg"
+                      ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "فصل ششم: صوت و مشخصات آن ",
+                    "paths": [
+                      "/lessons/unit_6/unit_6.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "صوت (آواز) ",
+                        "paths": ["/lessons/unit_6/lesson_1/lesson_1.1.jpg",
+                        "/lessons/unit_6/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "انتشار و انتقال صوت",
+                        "paths": ["/lessons/unit_6/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_6/lesson_2/lesson_2.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "سرعت صوت ",
+                        "paths": ["/lessons/unit_6/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_6/lesson_3/lesson_3.2.jpg"
+                      ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "فصل هفتم:مقناطیس و خواص آن ",
+                    "paths": [
+                      "/lessons/unit_7/unit_7.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": " مقناطیس (آهن ربا)",
+                        "paths": ["/lessons/unit_7/lesson_1/lesson_1.1.jpg",
+                        "/lessons/unit_7/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " مقناطیس طبیعی",
+                        "paths": ["/lessons/unit_7/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_7/lesson_2/lesson_2.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "مقناطیس مصنوعی",
+                        "paths": ["/lessons/unit_7/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_7/lesson_3/lesson_3.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "استعمال مقناطیس",
+                        "paths": ["/lessons/unit_7/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_7/lesson_4/lesson_4.2.jpg"
+                      ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "فصل هشتم: برق  ",
+                    "paths": [
+                      "/lessons/unit_8/unit_8.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "برق چیست",
+                        "paths": ["/lessons/unit_8/lesson_1/lesson_1.1.jpg",
+                        "/lessons/unit_8/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " برق ساکن",
+                        "paths": ["/lessons/unit_8/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_8/lesson_2/lesson_2.2.jpg",
+                        "/lessons/unit_8/lesson_2/lesson_2.3.jpg"
+                      ]
+                      },
+                      {
+                        "label": "برق جاری ",
+                        "paths": ["/lessons/unit_8/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_8/lesson_3/lesson_3.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " دوره های مسلسل و موازی برق",
+                        "paths": ["/lessons/unit_8/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_8/lesson_4/lesson_4.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "اجسام هادی و عایق برق ",
+                        "paths": ["/lessons/unit_8/lesson_5_/lesson_5.1.jpg",
+                        "/lessons/unit_8/lesson_5/lesson_5.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " خطرات برق و جلوگیری از آن",
+                        "paths": ["/lessons/unit_8/lesson_6/lesson_6.1.jpg",
+                        "/lessons/unit_8/lesson_6/lesson_6.2.jpg"
+                      ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": " فصل نهم:میکروب ها و پرازیت ها",
+                    "paths": [
+                      "/lessons/unit_9/unit_9.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "میکروب ها ",
+                        "paths": ["/lessons/unit_9/lesson_1/lesson_1.1.jpg",
+                        "/lessons/unit_9/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " پرازیت ها ",
+                        "paths": ["/lessons/unit_9/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_9/lesson_2/lesson_2.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " پرازیت های داخلی ",
+                        "paths": ["/lessons/unit_9/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_9/lesson_3/lesson_3.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "پرازیت های خارجی",
+                        "paths": ["/lessons/unit_9/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_9/lesson_4/lesson_4.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "انتقال دهنده گان امراض",
+                        "paths": ["/lessons/unit_9/lesson_5_/lesson_5.1.jpg",
+                        "/lessons/unit_9/lesson_5/lesson_5.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " پشه",
+                        "paths": ["/lessons/unit_9/lesson_6/lesson_6.1.jpg",
+                        "/lessons/unit_9/lesson_6/lesson_6.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " شپش",
+                        "paths": ["/lessons/unit_9/lesson_7/lesson_7.1.jpg",
+                        "/lessons/unit_9/lesson_7/lesson_7.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " طرق جلوگیری از انتقال امراض",
+                        "paths": ["/lessons/unit_9/lesson_8/lesson_8.1.jpg",
+                        "/lessons/unit_9/lesson_8/lesson_8.2.jpg"
+                      ]
+                      }
+                    ]
+                  } ,
+                  {
+                    "label": "فصل دهم: مواد مخدر یا نشه آور   ",
+                    "paths": [
+                      "/lessons/unit_10/unit_10.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "مواد مخدر ",
+                        "paths": ["/lessons/unit_10/lesson_1/lesson_1.1.jpg",
+                        "/lessons/unit_10/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " انواع مواد مخدر یا نشه آور ",
+                        "paths": ["/lessons/unit_10/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_10/lesson_2/lesson_2.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " ضرر های مواد مخدر ",
+                        "paths": ["/lessons/unit_10/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_10/lesson_3/lesson_3.2.jpg"
+                      ]
+                      }
+                    ]
+                  }    
+                ],
+                "download_pdf":"/pdf_book/science_subject.pdf"
+              },
+  
+  
+              {
+                "subjet_path":"/social_science_subject/",
+                "label": "دروس اجتماعی",
+                "parts": [
+                  {
+                    "label": "فصل اول",
+                    "paths": [
+                     "/lessons/unit_1/unit_1.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": " جامعه چیست؟",
+                        "paths": ["/lessons/unit_1/lesson_1/lesson_1.1.jpg",
+                        "/lessons/unit_1/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "انسان و جامعه",
+                        "paths": ["/lessons/unit_1/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_1/lesson_2/lesson_2.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "روابط اجتماعی",
+                        "paths": ["/lessons/unit_1/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_1/lesson_3/lesson_3.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "نیاز جامعه به صلح",
+                        "paths": ["/lessons/unit_1/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_1/lesson_4/lesson_4.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "حقوق انسان",
+                        "paths": ["/lessons/unit_1/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_1/lesson_5/lesson_5.2.jpg"
+                      ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "فصل دوم",
+                    "paths": [
+                     "/lessons/unit_2/unit_2.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "خدماتی اجتماعی چیست؟",
+                        "paths": ["/lessons/unit_2/lesson_6/lesson_6.1.jpg",
+                        "/lessons/unit_2/lesson_6/lesson_6.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "تعلیم و تربیت ",
+                        "paths": ["/lessons/unit_2/lesson_7/lesson_7.1.jpg",
+                        "/lessons/unit_2/lesson_7/lesson_7.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " صحت عامه",
+                        "paths": ["/lessons/unit_2/lesson_8/lesson_8.1.jpg",
+                        "/lessons/unit_2/lesson_8/lesson_8.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " آب رسانی",
+                        "paths": ["/lessons/unit_2/lesson_9/lesson_9.1.jpg",
+                        "/lessons/unit_2/lesson_9/lesson_9.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "برق ",
+                        "paths": ["/lessons/unit_2/lesson_10/lesson_10.1.jpg",
+                        "/lessons/unit_2/lesson_10/lesson_10.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " مخابرات",
+                        "paths": ["/lessons/unit_2/lesson_11/lesson_11.1.jpg",
+                        "/lessons/unit_2/lesson_11/lesson_11.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " خدمات پُست",
+                        "paths": ["/lessons/unit_2/lesson_12/lesson_12.1.jpg",
+                        "/lessons/unit_2/lesson_12/lesson_12.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "رسانه های جمعی ",
+                        "paths": ["/lessons/unit_2/lesson_13/lesson_13.1.jpg",
+                        "/lessons/unit_2/lesson_13/lesson_13.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " انترنیت",
+                        "paths": ["/lessons/unit_2/lesson_14/lesson_14.1.jpg",
+                        "/lessons/unit_2/lesson_14/lesson_14.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "ترانسپورت ",
+                        "paths": ["/lessons/unit_2/lesson_15/lesson_15.1.jpg",
+                        "/lessons/unit_2/lesson_15/lesson_15.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "شاروالی ",
+                        "paths": ["/lessons/unit_2/lesson_16/lesson_16.1.jpg",
+                        "/lessons/unit_2/lesson_16/lesson_16.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " پولیس",
+                        "paths": ["/lessons/unit_2/lesson_17/lesson_17.1.jpg",
+                        "/lessons/unit_2/lesson_17/lesson_17.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " پولیس ترافیک",
+                        "paths": ["/lessons/unit_2/lesson_18/lesson_18.1.jpg",
+                        "/lessons/unit_2/lesson_18/lesson_18.2.jpg"
+                      ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "فصل سوم",
+                    "paths": [
+                      "/lessons/unit_3/unit_3.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": " زراعت",
+                        "paths": ["/lessons/unit_3/lesson_19/lesson_19.1.jpg",
+                        "/lessons/unit_3/lesson_19/lesson_19.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "غله ها وبقول",
+                        "paths": ["/lessons/unit_3/lesson_20/lesson_20.1.jpg",
+                        "/lessons/unit_3/lesson_20/lesson_20.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "نباتات صنعتی و طبی",
+                        "paths": ["/lessons/unit_3/lesson_21/lesson_21.1.jpg",
+                        "/lessons/unit_3/lesson_21/lesson_21.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "میوه ها",
+                        "paths": ["/lessons/unit_3/lesson_22/lesson_22.1.jpg",
+                        "/lessons/unit_3/lesson_22/lesson_22.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "سبزی ها",
+                        "paths": ["/lessons/unit_3/lesson_23/lesson_23.1.jpg",
+                        "/lessons/unit_3/lesson_23/lesson_23.2.jpg"
+                      ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "فصل چهارم",
+                    "paths": [
+                      "/lessons/unit_4/unit_4.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": " مالداری",
+                        "paths": ["/lessons/unit_4/lesson_24/lesson_24.1.jpg",
+                        "/lessons/unit_4/lesson_24/lesson_24.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " گوسفند ",
+                        "paths": ["/lessons/unit_4/lesson_25/lesson_25.1.jpg",
+                        "/lessons/unit_4/lesson_25/lesson_25.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "گاو ",
+                        "paths": ["/lessons/unit_4/lesson_26/lesson_26.1.jpg",
+                        "/lessons/unit_4/lesson_26/lesson_26.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " اسپ",
+                        "paths": ["/lessons/unit_4/lesson_27/lesson_27.1.jpg",
+                        "/lessons/unit_4/lesson_27/lesson_27.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " شتر",
+                        "paths": ["/lessons/unit_4/lesson_28/lesson_28.1.jpg",
+                        "/lessons/unit_4/lesson_28/lesson_28.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " فارم های مرغداری",
+                        "paths": ["/lessons/unit_4/lesson_29/lesson_29.1.jpg",
+                        "/lessons/unit_4/lesson_29/lesson_29.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " فارم های ماهی",
+                        "paths": ["/lessons/unit_4/lesson_30/lesson_30.1.jpg",
+                        "/lessons/unit_4/lesson_30/lesson_30.2.jpg"
+                      ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "فصل پنجم",
+                    "paths": [
+                     "/lessons/unit_5/unit_5.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": " اهمیت صنایع",
+                        "paths": ["/lessons/unit_5/lesson_31/lesson_31.1.jpg",
+                        "/lessons/unit_5/lesson_31/lesson_31.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " صنایع دستی ",
+                        "paths": ["/lessons/unit_5/lesson_32/lesson_32.1.jpg",
+                        "/lessons/unit_5/lesson_32/lesson_32.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "قالین باقی",
+                        "paths": ["/lessons/unit_5/lesson_33/lesson_33.1.jpg",
+                        "/lessons/unit_5/lesson_33/lesson_33.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " چرمگری ",
+                        "paths": ["/lessons/unit_5/lesson_34/lesson_34.1.jpg",
+                        "/lessons/unit_5/lesson_34/lesson_34.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "خامک دوزی ",
+                        "paths": ["/lessons/unit_5/lesson_35/lesson_35.1.jpg",
+                        "/lessons/unit_5/lesson_35/lesson_35.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " صنایع ماشینی",
+                        "paths": ["/lessons/unit_5/lesson_36/lesson_36.1.jpg",
+                        "/lessons/unit_5/lesson_36/lesson_36.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " کارخانه نساجی و بافنده گی",
+                        "paths": ["/lessons/unit_5/lesson_37/lesson_37.1.jpg",
+                        "/lessons/unit_5/lesson_37/lesson_37.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "صنعت دواسازی ",
+                        "paths": ["/lessons/unit_5/lesson_38/lesson_38.1.jpg",
+                        "/lessons/unit_5/lesson_38/lesson_38.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " کارخانه سمنت سازی",
+                        "paths": ["/lessons/unit_5/lesson_39/lesson_39.1.jpg",
+                        "/lessons/unit_5/lesson_39/lesson_39.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "صنایع ثقیله و خفیفه ",
+                        "paths": ["/lessons/unit_5/lesson_40/lesson_40.1.jpg",
+                        "/lessons/unit_5/lesson_40/lesson_40.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " فلز های سیاه ورنگه",
+                        "paths": ["/lessons/unit_5/lesson_41/lesson_41.1.jpg",
+                        "/lessons/unit_5/lesson_41/lesson_41.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " نجاری و حجاری",
+                        "paths": ["/lessons/unit_5/lesson_42/lesson_42.1.jpg",
+                        "/lessons/unit_5/lesson_42/lesson_42.2.jpg"
+                      ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "فصل ششم",
+                    "paths": [
+                     "/lessons/unit_6/unit_6.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "تجارت ",
+                        "paths": ["/lessons/unit_6/lesson_43/lesson_43.1.jpg",
+                        "/lessons/unit_6/lesson_43/lesson_43.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " تجارت داخلی  ",
+                        "paths": ["/lessons/unit_6/lesson_44/lesson_44.1.jpg",
+                        "/lessons/unit_6/lesson_44/lesson_44.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "  تجارت خارجی ",
+                        "paths": ["/lessons/unit_6/lesson_45/lesson_45.1.jpg",
+                        "/lessons/unit_6/lesson_45/lesson_45.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "  بندر های کشور ",
+                        "paths": ["/lessons/unit_6/lesson_46/lesson_46.1.jpg",
+                        "/lessons/unit_6/lesson_46/lesson_46.2.jpg"
+                      ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "فصل هفتم",
+                    "paths": [
+                     "/lessons/unit_7/unit_7.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "محیط زیست ",
+                        "paths": ["/lessons/unit_7/lesson_47/lesson_47.1.jpg",
+                        "/lessons/unit_7/lesson_47/lesson_47.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "اقلیم ",
+                        "paths": ["/lessons/unit_7/lesson_48/lesson_48.1.jpg",
+                        "/lessons/unit_7/lesson_48/lesson_48.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " اقلیم افغانستان ",
+                        "paths": ["/lessons/unit_7/lesson_49/lesson_49.1.jpg",
+                        "/lessons/unit_7/lesson_49/lesson_49.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " تولید برق",
+                        "paths": ["/lessons/unit_7/lesson_50/lesson_50.1.jpg",
+                        "/lessons/unit_7/lesson_50/lesson_50.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " معادن و ذخایر طبیعی افغانستان ",
+                        "paths": ["/lessons/unit_7/lesson_51/lesson_51.1.jpg",
+                        "/lessons/unit_7/lesson_51/lesson_51.2.jpg"
+                      ]
+                      }
+                    ]
+                  }
+                ],
+                "download_pdf":"/pdf_book/social_science_subject.pdf"
+              },
+              {
+                "subjet_path":"/english_subject/",
+                "label": "english",
+                "parts": [
+                  {
+                    "label": "unit one",
+                    "paths": [
+                      "/lessons/unit_1/unit_1.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "dialoug",
+                        "paths": ["/lessons/unit_1/lesson_1/lesson_1.1.jpg",
+                         "/lessons/unit_1/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " fun with words",
+                        "paths": ["/lessons/unit_1/lesson_2/lesson_2.1.jpg",
+                         "/lessons/unit_1/lesson_2/lesson_2.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "reading",
+                        "paths": ["/lessons/unit_1/lesson_3/lesson_3.1.jpg",
+                         "/lessons/unit_1/lesson_3/lesson_3.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "vocabulary",
+                        "paths": ["/lessons/unit_1/lesson_4/lesson_4.1.jpg",
+                         "/lessons/unit_1/lesson_4/lesson_4.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "listening and reading",
+                        "paths": ["/lessons/unit_1/lesson_5/lesson_5.1.jpg",
+                         "/lessons/unit_1/lesson_5/lesson_5.2.jpg"
+                      ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "unit two",
+                    "paths": [
+                      "/lessons/unit_2/unit_2.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "dialoug",
+                        "paths": ["/lessons/unit_2/lesson_1/lesson_1.1.jpg",
+                         "/lessons/unit_2/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "let's read ",
+                        "paths": ["/lessons/unit_2/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_2/lesson_2/lesson_2.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "let's act",
+                        "paths": ["/lessons/unit_2/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_2/lesson_3/lesson_3.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "games we play in school",
+                        "paths": ["/lessons/unit_2/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_2/lesson_4/lesson_4.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "look and read",
+                        "paths": ["/lessons/unit_2/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_2/lesson_5/lesson_5.2.jpg"
+                     ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "unit three",
+                    "paths": [
+                      "/lessons/unit_3/unit_3.1.jpg"
+                    ],
+                    "lessons": [
+                      {
+                        "label": "dialoug",
+                        "paths": ["/lessons/unit_3/lesson_1/lesson_1.1.jpg",
+                         "/lessons/unit_3/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": " subject pronoun",
+                        "paths": ["/lessons/unit_3/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_3/lesson_2/lesson_2.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "writing",
+                        "paths": ["/lessons/unit_3/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_3/lesson_3/lesson_3.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "time to read",
+                        "paths": ["/lessons/unit_3/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_3/lesson_4/lesson_4.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "words search",
+                        "paths": ["/lessons/unit_3/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_3/lesson_5/lesson_5.2.jpg"
+                     ]
+                      }
+                    ]
+  
+                  },
+                  {
+                    "label": "unit four",
+                    "paths": [
+                      "/lessons/unit_4/unit_4.1.jpg"  
+                    ],
+                    "lessons": [
+                      {
+                        "label": "conversation",
+                        "paths": ["/lessons/unit_4/lesson_1/lesson_1.1.jpg",
+                         "/lessons/unit_4/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "listen and repeat",
+                        "paths": ["/lessons/unit_4/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_4/lesson_2/lesson_2.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "let's learn something new",
+                        "paths": ["/lessons/unit_4/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_4/lesson_3/lesson_3.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "look and read",
+                        "paths": ["/lessons/unit_4/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_4/lesson_4/lesson_4.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "reading",
+                        "paths": ["/lessons/unit_4/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_4/lesson_5/lesson_5.2.jpg"
+                     ]
+                      }
+                    ]
+  
+                  },
+                  {
+                    "label": "unit five",
+                    "paths": [
+                      "/lessons/unit_5/unit_5.1.jpg"  
+                    ],
+                    "lessons": [
+                      {
+                        "label": "conversation",
+                        "paths": ["/lessons/unit_5/lesson_1/lesson_1.1.jpg",
+                         "/lessons/unit_5/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "let's read",
+                        "paths": ["/lessons/unit_5/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_5/lesson_2/lesson_2.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "writing",
+                        "paths": ["/lessons/unit_5/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_5/lesson_3/lesson_3.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "let's learn",
+                        "paths": ["/lessons/unit_5/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_5/lesson_4/lesson_4.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "let's do it",
+                        "paths": ["/lessons/unit_5/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_5/lesson_5/lesson_5.2.jpg"
+                     ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "unit six",
+                    "paths": [
+                      "/lessons/unit_6/unit_6.1.jpg"  
+                    ],
+                    "lessons": [
+                      {
+                        "label": "conversation",
+                        "paths": ["/lessons/unit_6/lesson_1/lesson_1.1.jpg",
+                         "/lessons/unit_6/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "let's read",
+                        "paths": ["/lessons/unit_6/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_6/lesson_2/lesson_2.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "listen and repeat",
+                        "paths": ["/lessons/unit_6/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_6/lesson_3/lesson_3.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "dialoug",
+                        "paths": ["/lessons/unit_6/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_6/lesson_4/lesson_4.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "let's read",
+                        "paths": ["/lessons/unit_6/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_6/lesson_5/lesson_5.2.jpg"
+                     ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "unit seven",
+                    "paths": [
+                      "/lessons/unit_7/unit_7.1.jpg"  
+                    ],
+                    "lessons": [
+                      {
+                        "label": "conversation",
+                        "paths": ["/lessons/unit_7/lesson_1/lesson_1.1.jpg",
+                         "/lessons/unit_7/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "reading",
+                        "paths": ["/lessons/unit_7/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_7/lesson_2/lesson_2.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "writing",
+                        "paths": ["/lessons/unit_7/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_7/lesson_3/lesson_3.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "its time to read",
+                        "paths": ["/lessons/unit_7/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_7/lesson_4/lesson_4.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "look read and circle",
+                        "paths": ["/lessons/unit_7/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_7/lesson_5/lesson_5.2.jpg"
+                     ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "unit eight",
+                    "paths": [
+                      "/lessons/unit_8/unit_8.1.jpg"  
+                    ],
+                    "lessons": [
+                      {
+                        "label": "dialoug",
+                        "paths": ["/lessons/unit_8/lesson_1/lesson_1.1.jpg",
+                         "/lessons/unit_8/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "reading",
+                        "paths": ["/lessons/unit_8/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_8/lesson_2/lesson_2.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "let's write",
+                        "paths": ["/lessons/unit_8/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_8/lesson_3/lesson_3.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "its time to read",
+                        "paths": ["/lessons/unit_8/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_8/lesson_4/lesson_4.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "find and write",
+                        "paths": ["/lessons/unit_8/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_8/lesson_5/lesson_5.2.jpg"
+                     ]
+                      }
+                    ]
+  
+                  },
+                  {
+                    "label": "unit nine ",
+                    "paths": [
+                      "/lessons/unit_9/unit_9.1.jpg"  
+                    ],
+                    "lessons": [
+                      {
+                        "label": "dialoug",
+                        "paths": ["/lessons/unit_9/lesson_1/lesson_1.1.jpg",
+                         "/lessons/unit_9/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "time to read",
+                        "paths": ["/lessons/unit_9/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_9/lesson_2/lesson_2.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": " fun with words",
+                        "paths": ["/lessons/unit_9/lesson_3/lesson_3.1.jpg"
+                     ]
+                      },
+                      {
+                        "label": "time to read",
+                        "paths": ["/lessons/unit_9/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_9/lesson_4/lesson_4.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "look find and circle",
+                        "paths": ["/lessons/unit_9/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_9/lesson_5/lesson_5.2.jpg"
+                     ]
+                      }
+                    ]
+  
+                  },
+                  {
+                    "label": "unit ten",
+                    "paths": [
+                      "/lessons/unit_10/unit_10.1.jpg"  
+                    ],
+                    "lessons": [
+                      {
+                        "label": "dialoug",
+                        "paths": ["/lessons/unit_10/lesson_1/lesson_1.1.jpg",
+                         "/lessons/unit_10/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "time to read",
+                        "paths": ["/lessons/unit_10/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_10/lesson_2/lesson_2.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "writing",
+                        "paths": ["/lessons/unit_10/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_10/lesson_3/lesson_3.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "its time to read",
+                        "paths": ["/lessons/unit_10/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_10/lesson_4/lesson_4.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "time with past/to",
+                        "paths": ["/lessons/unit_10/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_10/lesson_5/lesson_5.2.jpg"
+                     ]
+                      }
+                    ]
+  
+                  },
+                  {
+                    "label": "unit eleven",
+                    "paths": [
+                      "/lessons/unit_11/unit_11.1.jpg"  
+                    ],
+                    "lessons": [
+                      {
+                        "label": "dialoug",
+                        "paths": ["/lessons/unit_11/lesson_1/lesson_1.1.jpg",
+                         "/lessons/unit_11/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "its time to read",
+                        "paths": ["/lessons/unit_11/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_11/lesson_2/lesson_2.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "writing",
+                        "paths": ["/lessons/unit_11/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_11/lesson_3/lesson_3.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "reading",
+                        "paths": ["/lessons/unit_11/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_11/lesson_4/lesson_4.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "listen and repeat",
+                        "paths": ["/lessons/unit_11/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_11/lesson_5/lesson_5.2.jpg"
+                     ]
+                      }
+                    ]
+  
+                  },
+                  {
+                    "label": "unit twelve",
+                    "paths": [
+                      "/lessons/unit_12/unit_12.1.jpg"  
+                    ],
+                    "lessons": [
+                      {
+                        "label": "dialoug",
+                        "paths": ["/lessons/unit_12/lesson_1/lesson_1.1.jpg",
+                         "/lessons/unit_12/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "listen and repeat",
+                        "paths": ["/lessons/unit_12/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_12/lesson_2/lesson_2.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "writing",
+                        "paths": ["/lessons/unit_12/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_12/lesson_3/lesson_3.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "let's read ",
+                        "paths": ["/lessons/unit_12/lesson_4/lesson_4.1.jpg"
+                     ]
+                      },
+                      {
+                        "label": "exercise",
+                        "paths": ["/lessons/unit_12/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_12/lesson_5/lesson_5.2.jpg"
+                     ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "unit thirteen ",
+                    "paths": [
+                      "/lessons/unit_13/unit_13.1.jpg"  
+                    ],
+                    "lessons": [
+                      {
+                        "label": "dialoug",
+                        "paths": ["/lessons/unit_13/lesson_1/lesson_1.1.jpg",
+                         "/lessons/unit_13/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "its time to read",
+                        "paths": ["/lessons/unit_13/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_13/lesson_2/lesson_2.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "writing",
+                        "paths": ["/lessons/unit_13/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_13/lesson_3/lesson_3.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "let's sing",
+                        "paths": ["/lessons/unit_13/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_13/lesson_4/lesson_4.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "look and match",
+                        "paths": ["/lessons/unit_13/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_13/lesson_5/lesson_5.2.jpg"
+                     ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "unit fourteen",
+                    "paths": [
+                      "/lessons/unit_14/unit_14.1.jpg"  
+                    ],
+                    "lessons": [
+                      {
+                        "label": "dialoug",
+                        "paths": ["/lessons/unit_14/lesson_1/lesson_1.1.jpg",
+                         "/lessons/unit_14/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "its time to read",
+                        "paths": ["/lessons/unit_14/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_14/lesson_2/lesson_2.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "writing",
+                        "paths": ["/lessons/unit_14/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_14/lesson_3/lesson_3.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "dialoug",
+                        "paths": ["/lessons/unit_14/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_14/lesson_4/lesson_4.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "look and match",
+                        "paths": ["/lessons/unit_14/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_14/lesson_5/lesson_5.2.jpg"
+                     ]
+                      }
+                    ]
+                  },
+                  {
+                    "label": "unit fifteen ",
+                    "paths": [
+                      "/lessons/unit_15/unit_15.1.jpg"  
+                    ],
+                    "lessons": [
+                      {
+                        "label": "dialoug",
+                        "paths": ["/lessons/unit_15/lesson_1/lesson_1.1.jpg",
+                         "/lessons/unit_15/lesson_1/lesson_1.2.jpg"
+                      ]
+                      },
+                      {
+                        "label": "its time to read",
+                        "paths": ["/lessons/unit_15/lesson_2/lesson_2.1.jpg",
+                        "/lessons/unit_15/lesson_2/lesson_2.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "writing",
+                        "paths": ["/lessons/unit_15/lesson_3/lesson_3.1.jpg",
+                        "/lessons/unit_15/lesson_3/lesson_3.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "its time to read",
+                        "paths": ["/lessons/unit_15/lesson_4/lesson_4.1.jpg",
+                        "/lessons/unit_15/lesson_4/lesson_4.2.jpg"
+                     ]
+                      },
+                      {
+                        "label": "read and choose",
+                        "paths": ["/lessons/unit_15/lesson_5/lesson_5.1.jpg",
+                        "/lessons/unit_15/lesson_5/lesson_5.2.jpg",
+                        "/lessons/unit_15/lesson_5/lesson_5.3.jpg"
+                     ]
+                      }
+                    ]
+                  }
+                ],
+                "download_pdf":"/pdf_book/english_subject.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    }
+}
