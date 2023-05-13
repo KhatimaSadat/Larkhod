@@ -1,0 +1,1894 @@
+{
+    "pashto_curriculum": {
+        "primary": {
+          "label": "لومرنی",
+          "base_path": "/school_subjects/pashto_curriculum/Praimary",
+          "grades": [
+            {
+              "grade_path": "/first_grade/",
+              "label": "لومری تولگی ",
+              "subjects": [
+                { "subject_path": "/Art/",
+                  "label":"د رسامی هنر",
+                  "parts":[
+                    {
+                      "label":" دخطونو دولونه",
+                      "paths": [
+                        "/lessons/lesson_1/lesson__1.jpg",
+                        "/lessons/lesson_1/lesson_1.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":" د رنگونو پيژندل ",
+                      "paths": [
+                        "/lessons/lesson_2/lesson_2.jpg",
+                        "/lessons/lesson_2/lesson_2.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":" د رسامی وسیلی ",
+                      "paths": [
+                        "/lessons/lesson_3/lesson_3.jpg",
+                        "/lessons/lesson_3/lesson_3.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":" آزادې کرښې ",
+                      "paths": [
+                        "/lessons/lesson_4/lesson_4.jpg",
+                        "/lessons/lesson_4/lesson_4.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":"منظمې کرښې  ",
+                      "paths": [
+                        "/lessons/lesson_5/lesson_5.jpg",
+                        "/lessons/lesson_5/lesson_5.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":" ساده شكلونه",
+                      "paths": [
+                        "/lessons/lesson_6/lesson_6.jpg",
+                        "/lessons/lesson_6/lesson_6.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":" رنگونه ",
+                      "paths": [
+                        "/lessons/lesson_7/lesson_7.jpg",
+                        "/lessons/lesson_7/lesson_7.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":"گل",
+                      "paths": [
+                        "/lessons/lesson_8/lesson_8.jpg",
+                        "/lessons/lesson_8/lesson_8.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":"دگل رنگول",
+                      "paths": [
+                        "/lessons/lesson_9/lesson_9.jpg",
+                        "/lessons/lesson_9/lesson_9.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":"د پاڼي انځور ",
+                      "paths": [
+                        "/lessons/lesson_10/lesson_10.jpg",
+                        "/lessons/lesson_10/lesson_10.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":"د پانی رنگول",
+                      "paths": [
+                        "/lessons/lesson_11/lesson_11.jpg",
+                        "/lessons/lesson_11/lesson_11.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":"سابه",
+                      "paths": [
+                        "/lessons/lesson_12/lesson_12.jpg",
+                        "/lessons/lesson_12/lesson_12.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":"مېوې ",
+                      "paths": [
+                        "/lessons/lesson_13/lesson_13.jpg",
+                        "/lessons/lesson_13/lesson_13.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":"د مېوو رنگه کول",
+                      "paths": [
+                        "/lessons/lesson_14/lesson_14.jpg",
+                        "/lessons/lesson_14/lesson_14.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":" د هیلۍ انځور",
+                      "paths": [
+                        "/lessons/lesson_15/lesson_15.jpg",
+                        "/lessons/lesson_15/lesson_15.1.jpg"
+                      ]
+                    },{
+                      "label":"د هیلې رنگه کول",
+                      "paths": [
+                        "/lessons/lesson_16/lesson_16.jpg",
+                        "/lessons/lesson_16/lesson_16.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":" کبان  ",
+                      "paths": [
+                        "/lessons/lesson_17/lesson_17.jpg",
+                        "/lessons/lesson_17/lesson_17.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":" د کب رنگه کول ",
+                      "paths": [
+                        "/lessons/lesson_18/lesson_18.jpg",
+                        "/lessons/lesson_18/lesson_18.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":" پیشو ",
+                      "paths": [
+                        "/lessons/lesson_19/lesson_19.jpg",
+                        "/lessons/lesson_19/lesson_19.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":"اصلي رنگونه ",
+                      "paths": [
+                        "/lessons/lesson_20/lesson_20.jpg",
+                        "/lessons/lesson_20/lesson_20.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":" لاسي كار کاپی کول ",
+                      "paths": [
+                        "/lessons/lesson_21/lesson_21.jpg",
+                        "/lessons/lesson_21/lesson_21.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":"  کاپی کول ",
+                      "paths": [
+                        "/lessons/lesson_22/lesson_22.jpg",
+                        "/lessons/lesson_22/lesson_22.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":" د پاکت لاسي کار",
+                      "paths": [
+                        "/lessons/lesson_23/lesson_23.jpg",
+                        "/lessons/lesson_23/lesson_23.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":"دکښتی لاسی کار",
+                      "paths": [
+                        "/lessons/lesson_24/lesson_24.jpg",
+                        "/lessons/lesson_24/lesson_24.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":" له کاغذ څخه دگل جوړول ",
+                      "paths": [
+                        "/lessons/lesson_25/lesson_25.jpg",
+                        "/lessons/lesson_25/lesson_25.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":" له کاغذ څخه دکوترې جوړولو لاسي کار ",
+                      "paths": [
+                        "/lessons/lesson_26/lesson_26.jpg",
+                        "/lessons/lesson_26/lesson_26.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":"د چرگې رسمول.",
+                      "paths": [
+                        "/lessons/lesson_27/lesson_27.jpg",
+                        "/lessons/lesson_27/lesson_27.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":"دگوتو له نښانونو څخه د شکلونو جوړول ",
+                      "paths": [
+                        "/lessons/lesson_28/lesson_28.jpg",
+                        "/lessons/lesson_28/lesson_28.1.jpg"
+                      ]
+                    }
+                  ],
+                  "download_pdf": "/pdf_book/G1-Dr-Art.pdf"
+                },
+                {  "subject_path":"/Hand_writing/",
+                   "label": "حسن خط",
+                   "parts":[
+                    {
+                      "label":"د خطاطۍ وسایل ",
+                      "paths": [
+                        "/lessons/lesson_1/lesson__1.jpg"
+                      ]
+                    },
+                    {
+                      "label":"تکی ( نقطه ",
+                      "paths": [
+                        "/lessons/lesson_2/lesson__2.jpg"
+                      ]
+                    },
+                    {
+                      "label":"د (آ) توری",
+                      "paths": [
+                        "/lessons/lesson_3/lesson_3.jpg"
+                      ]
+                    },
+                    {
+                      "label":"ب",
+                      "paths": [
+                        "/lessons/lesson_4/lesson_4.jpg"
+                      ]
+                    },
+                    {
+                      "label":"ج",
+                      "paths": [
+                        "/lessons/lesson_5/lesson_5.jpg"
+                      ]
+                    },
+                    {
+                      "label":"د",
+                      "paths": [
+                        "/lessons/lesson_6/lesson_6.jpg"
+                      ]
+                    },
+                    {
+                      "label":"ر",
+                      "paths": [
+                        "/lessons/lesson_7/lesson_7.jpg"
+                      ]
+                    },
+                    {
+                      "label":"س",
+                      "paths": [
+                        "/lessons/lesson_8/lesson_8.jpg"
+                      ]
+                    },
+                    {
+                      "label":"ص",
+                      "paths": [
+                        "/lessons/lesson_9/lesson_9.jpg"
+                      ]
+                    },
+                    {
+                      "label":"ط",
+                      "paths": [
+                        "/lessons/lesson_10/lesson_10.jpg"
+                      ]
+                    },
+                    {
+                      "label":"ع",
+                      "paths": [
+                        "/lessons/lesson_11/lesson_11.jpg"
+                      ]
+                    },
+                    {
+                      "label":"ف",
+                      "paths": [
+                        "/lessons/lesson_12/lesson_12.2.jpg"
+                      ]
+                    },
+                    {
+                      "label":"ق",
+                      "paths": [
+                        "/lessons/lesson_13/lesson_13.jpg"
+                      ]
+                    },
+                    {
+                      "label":"ک",
+                      "paths": [
+                        "/lessons/lesson_14/lesson_14.jpg"
+                      ]
+                    },
+                    {
+                      "label":"گ",
+                      "paths": [
+                        "/lessons/lesson_15/lesson_15.jpg"
+                      ]
+                    },
+                    {
+                      "label":"ل",
+                      "paths": [
+                        "/lessons/lesson_16/lesson_16.jpg"
+                      ]
+                    },
+                    {
+                      "label":"م",
+                      "paths": [
+                        "/lessons/lesson_17/lesson_17.jpg"
+                      ]
+                    },
+                    {
+                      "label":"م",
+                      "paths": [
+                        "/lessons/lesson_18/lesson_18.jpg"
+                      ]
+                    },
+                    {
+                      "label":" ن ",
+                      "paths": [
+                        "/lessons/lesson_19/lesson_19.jpg"
+                      ]
+                    },
+                    {
+                      "label":"و",
+                      "paths": [
+                        "/lessons/lesson_20/lesson_20.jpg"
+                      ]
+                    },
+                    {
+                      "label":"ه",
+                      "paths": [
+                        "/lessons/lesson_21/lesson_21.jpg"
+                      ]
+                    },
+                    {
+                      "label":"ی",
+                      "paths": [
+                        "/lessons/lesson_22/lesson_22.jpg"
+                      ]
+                    }
+                   ],
+                   "download_pdf": "/pdf_book/G1-Dr-Hand_Writing.pdf"
+                },
+                { "subject_path":"/feqe_Hanafi/",
+                  "label":"اسلامیات(فقه حنفی)",
+                  "parts":[
+                    {
+                      "label":"آلله (ج)",
+                      "paths": [
+                        "/lessons/lesson_1/lesson__1.jpg",
+                        "/lessons/lesson_1/lesson_1.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"زموږ پیغمبر صلى الله عليه وسلم ",
+                      "paths": [
+                        "/lessons/lesson_2/lesson_2.jpg",
+                        "/lessons/lesson_2/lesson_2.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"طیبه کلمه ",
+                      "paths": [
+                        "/lessons/lesson_3/lesson_3.jpg",
+                        "/lessons/lesson_3/lesson_3.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":" شهادت کلمه",
+                      "paths": [
+                        "/lessons/lesson_4/lesson_4.jpg",
+                        "/lessons/lesson_4/lesson_4.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"قرآنکریم",
+                      "paths": [
+                        "/lessons/lesson_5/lesson_5.jpg",
+                        "/lessons/lesson_5/lesson_5.1.jpg"
+                      ]
+                    },  
+                    {
+                      "label":"آسلام",
+                      "paths": [
+                        "/lessons/lesson_6/lesson_6.jpg",
+                        "/lessons/lesson_6/lesson_6.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"کعبهء شریف",
+                      "paths": [
+                        "/lessons/lesson_7/lesson_7.jpg",
+                        "/lessons/lesson_7/lesson_7.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" لمانځه لپاره پاکوالی",
+                      "paths": [
+                        "/lessons/lesson_8/lesson_8.jpg",
+                        "/lessons/lesson_8/lesson_8.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"اودس",
+                      "paths": [
+                        "/lessons/lesson_9/lesson_9.jpg",
+                        "/lessons/lesson_9/lesson_9.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"د لمانځه وختونه ",
+                      "paths": [
+                        "/lessons/lesson_10/lesson_10.jpg",
+                        "/lessons/lesson_10/lesson_10.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"المونغ تكبير او ثناء",
+                      "paths": [
+                        "/lessons/lesson_11/lesson_11.jpg",
+                        "/lessons/lesson_11/lesson_11.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"د فاتحی سورت (۱) ",
+                      "paths": [
+                        "/lessons/lesson_12/lesson_12.jpg",
+                        "/lessons/lesson_12/lesson_12.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"(د فاتحې سورت (۲))",
+                      "paths": [
+                        "/lessons/lesson_13/lesson_13.jpg",
+                        "/lessons/lesson_13/lesson_13.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"قرائت",
+                      "paths": [
+                        "/lessons/lesson_14/lesson_14.jpg",
+                        "/lessons/lesson_14/lesson_14.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"د رکوع تسبیحات ",
+                      "paths": [
+                        "/lessons/lesson_15/lesson_15.jpg",
+                        "/lessons/lesson_15/lesson_15.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"تسمیع و تحمید",
+                      "paths": [
+                        "/lessons/lesson_16/lesson_16.jpg",
+                        "/lessons/lesson_16/lesson_16.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"د سجدې تسبيحات",
+                      "paths": [
+                        "/lessons/lesson_17/lesson_17.jpg",
+                        "/lessons/lesson_17/lesson_17.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"التَّحیات (۱)",
+                      "paths": [
+                        "/lessons/lesson_18/lesson_18.jpg",
+                        "/lessons/lesson_18/lesson_18.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"التَّحیات (۲)",
+                      "paths": [
+                        "/lessons/lesson_19/lesson_19.jpg",
+                        "/lessons/lesson_19/lesson_19.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"التَّحیات (۳)",
+                      "paths": [
+                        "/lessons/lesson_20/lesson_20.jpg",
+                        "/lessons/lesson_20/lesson_20.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"التَّحیات (۴)",
+                      "paths": [
+                        "/lessons/lesson_21/lesson_21.jpg",
+                        "/lessons/lesson_21/lesson_21.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"درود شریف(۱)",
+                      "paths": [
+                        "/lessons/lesson_22/lesson_22.jpg",
+                        "/lessons/lesson_22/lesson_22.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"درود شریف(۲)",
+                      "paths": [
+                        "/lessons/lesson_23/lesson_23.jpg",
+                        "/lessons/lesson_23/lesson_23.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"دعااوسلام",
+                      "paths": [
+                        "/lessons/lesson_24/lesson_24.jpg",
+                        "/lessons/lesson_24/lesson_24.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" د مور او پلار درناوی",
+                      "paths": [
+                        "/lessons/lesson_26/lesson_26.jpg",
+                        "/lessons/lesson_26/lesson_26.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"رښتيا ويل",
+                      "paths": [
+                        "/lessons/lesson_27/lesson_27.jpg",
+                        "/lessons/lesson_27/lesson_27.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"آمانت داری",
+                      "paths": [
+                        "/lessons/lesson_28/lesson_28.jpg",
+                        "/lessons/lesson_28/lesson_28.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"پاکوالی",
+                      "paths": [
+                        "/lessons/lesson_29/lesson_29.jpg",
+                        "/lessons/lesson_29/lesson_29.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":"د ډوډۍ خوړلو ادبونه",
+                      "paths": [
+                        "/lessons/lesson_30/lesson_30.jpg",
+                        "/lessons/lesson_30/lesson_30.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"د اوبو څښلو ادبونه",
+                      "paths": [
+                        "/lessons/lesson_31/lesson_31.jpg",
+                        "/lessons/lesson_31/lesson_31.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" د سلام ادبونه",
+                      "paths": [
+                        "/lessons/lesson_32/lesson_32.jpg",
+                        "/lessons/lesson_32/lesson_32.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" د سلام ادبونه",
+                      "paths": [
+                        "/lessons/lesson_33/lesson_33.jpg",
+                        "/lessons/lesson_33/lesson_33.1.jpg"
+                      ]
+                    }
+                  ],
+                  "download_pdf": "/pdf_book/G1-Ps-Islamic_Study.pdf"
+                },
+                { "subject_path":"/Math/",
+                  "label":"ریاضی",
+                  "parts":[
+                    {
+                      "label":"د چمتوالی دوره",
+                      "paths":"/lessons/preparation_period/Amadagi_1.jpg",
+                      "lessons":[
+                        {"label":"چمتووالی",
+                          "paths":[
+                            "/lessons/preparation_period/preparation_1.jpg",
+                            "/lessons/preparation_period/preparation_2.jpg",
+                            "/lessons/preparation_period/preparation_3.jpg",
+                            "/lessons/preparation_period/preparation_4.jpg",
+                            "/lessons/preparation_period/preparation_5.jpg"           
+                          ]
+                        }
+                      ]
+                    },
+                    {"label":"لومړی فصل: تر ۹ پورې د عددونو شميرل او پیژندل.",
+                      "paths":"/lessons/Unit_1/lesson_1/lesson_1.jpg",
+                      "lessons":[
+                        {
+                          "label":  "د ۱ عدد",
+                          "paths":[
+                            "/lessons/Unit_1/lesson_1/lesson_1.jpg",
+                            "/lessons/Unit_1/lesson_1/lesson_1.1.jpg"            
+                          ]
+                        },
+                        {
+                          "label":" د ۲عدد",
+                          "paths":[
+                            "/lessons/Unit_1/lesson_2/lesson_2.jpg",
+                            "/lessons/Unit_1/lesson_2/lesson_2.1.jpg"          
+                          ]
+                        },
+                        {
+                          "label":" ۳ ",
+                          "paths":[
+                            "/lessons/Unit_1/lesson_3/lesson_3.jpg",
+                            "/lessons/Unit_1/lesson_3/lesson_3.1.jpg",
+                            "/lessons/Unit_1/lesson_3/lesson_3.2.jpg"            
+                          ]
+                        },
+                        {
+                          "label":" ۴ ",
+                          "paths":[
+                            "/lessons/Unit_1/lesson_4/lesson_4.jpg",
+                            "/lessons/Unit_1/lesson_4/lesson_4.1.jpg",
+                            "/lessons/Unit_1/lesson_4/lesson_4.2.jpg"            
+                          ]
+                        },
+                        {
+                          "label":" ۵ ",
+                          "paths":[
+                            "/lessons/Unit_1/lesson_5/lesson_5.jpg",
+                            "/lessons/Unit_1/lesson_5/lesson_5.1.jpg"           
+                          ]
+                        },
+                        {
+                          "label":"د مساوی و کم او زیات پیژندنه ",
+                          "paths":[
+                            "/lessons/Unit_1/lesson_6/lesson_6.jpg"         
+                          ]
+                        },  {
+                          "label":" ( <,>,=) ",
+                          "paths":[
+                            "/lessons/Unit_1/lesson_7/lesson_7.jpg",
+                            "/lessons/Unit_1/lesson_7/lesson_7.1.jpg"
+                          ]
+                        },
+                        {
+                          "label":" ۶ ",
+                          "paths":[
+                            "/lessons/Unit_1/lesson_8/lesson_8.jpg"           
+                          ]
+                        },
+                        {
+                          "label":" ۷,۸ ",
+                          "paths":[
+                            "/lessons/Unit_1/lesson_9/lesson_9.jpg",
+                            "/lessons/Unit_1/lesson_9/lesson_9.1.jpg",
+                            "/lessons/Unit_1/lesson_9/lesson_9.2.jpg"            
+                          ]
+                        },
+                        {
+                          "label":" ۹ ",
+                          "paths":[
+                            "/lessons/Unit_1/lesson_10/lesson_10.jpg"           
+                          ]
+                        },
+                        {
+                          "label":" صفر ",
+                          "paths":[
+                            "/lessons/Unit_1/lesson_11/lesson_11.jpg",
+                            "/lessons/Unit_1/lesson_11/lesson_11.1.jpg",
+                            "/lessons/Unit_1/lesson_11/lesson_11.2.jpg"            
+                          ]
+                        }
+                      ]
+                    },
+                    {"label":" دویم فصل: د يوه رقمي عددونو جمع ",
+                      "paths":"/lessons/َUnit_2/lesson_12/lesson_12.jpg",
+                      "lessons":[
+                        {
+                          "label":"د يوه رقمي عددونو جمع",
+                          "paths":[
+                            "/lessons/Unit_2/lesson_12/lesson_12.jpg",
+                            "/lessons/Unit_2/lesson_12/lesson_12.1.jpg"
+                          ]
+                        },
+                        {
+                          "label":"دیارلسم لوست ",
+                          "paths":[
+                            "/lessons/Unit_2/lesson_13/lesson_13.jpg"
+                          ]
+                        },
+                        {
+                          "label":"څوارلسم لوست",
+                          "paths":[
+                            "/lessons/Unit_2/lesson_14/lesson_14.jpg",
+                            "/lessons/Unit_2/lesson_14/lesson_14.1.jpg",
+                            "/lessons/Unit_2/lesson_14/lesson_14.2.jpg",
+                            "/lessons/Unit_2/lesson_14/lesson_14.3.jpg",
+                            "/lessons/Unit_2/lesson_14/lesson_14.4.jpg"
+                          ]
+                        }
+                      ]
+                    },
+                    {"label":" دريم فصل: له يوه رقمي عددونو څخه د تفريق له يوه رقمي عددونو تفريق ",
+                      "paths":"/lessons/Unit_3/lesson_15/lesson_15.jpg",
+                      "lessons":[
+                        {
+                          "label":"ه يوه رقمي عددونو څخه د يوه رقمي عددونو تفريق",
+                          "paths":[
+                            "/lessons/Unit_3/lesson_15/lesson_15.jpg",
+                            "/lessons/Unit_3/lesson_15/lesson_15.1.jpg"
+                          ]
+                        },
+                        {
+                          "label":"شپاړلسم لوست",
+                          "paths":[
+                              "/lessons/Unit_3/lesson_16/lesson_16.jpg",
+                              "/lessons/Unit_3/lesson_16/lesson_16.1.jpg"
+                          ]
+                        },
+                        {
+                          "label":"اووه لسم لوست",
+                          "paths":[
+                              "/lessons/Unit_3/lesson_17/lesson_17.jpg",
+                              "/lessons/Unit_3/lesson_17/lesson_17.1.jpg"
+                          ]
+                        },
+                        {
+                          "label":"اتلسم لوست",
+                          "paths":[
+                              "/lessons/Unit_3/lesson_18/lesson_18.jpg",
+                              "/lessons/Unit_3/lesson_18/lesson_18.1.jpg",
+                              "/lessons/Unit_3/lesson_18/lesson_18.2jpg",
+                              "/lessons/Unit_3/lesson_18/lesson_18.3.jpg",
+                              "/lessons/Unit_3/lesson_18/lesson_18.4.jpg"
+                          ]
+                        },
+                        {
+                          "label":"نولسم لوست",
+                          "paths":[
+                              "/lessons/Unit_3/lesson_19/lesson_19.jpg",
+                              "/lessons/Unit_3/lesson_19/lesson_19.1.jpg",
+                              "/lessons/Unit_3/lesson_19/lesson_19.2jpg",
+                              "/lessons/Unit_3/lesson_19/lesson_19.3.jpg"
+                          ]
+                        }
+                      ]
+                    },
+                    {"label":" څلورم فصل تر ۲۰ پورې د عددونو شميرل لوستل او ليكل ",
+                      "paths":"/lessons/Unit_4/lesson_20/lesson_20.jpg",
+                      "lessons":[
+                        {
+                          "label":"شلم لوست",
+                          "paths":[
+                            "/lessons/Unit_4/lesson_20/lesson_20.jpg"
+                          ]
+                        },
+                        {
+                          "label":"یو ویشتم لوست",
+                          "paths":[
+                              "/lessons/Unit_4/lesson_21/lesson_21.jpg",
+                              "/lessons/Unit_4/lesson_21/lesson_21.1.jpg"
+                          ]
+                        },
+                        {
+                          "label":"دوه ویشتم لوست",
+                          "paths":[
+                              "/lessons/Unit_4/lesson_22/lesson_22.jpg",
+                              "/lessons/Unit_4/lesson_22/lesson_22.1.jpg",
+                              "/lessons/Unit_4/lesson_22/lesson_22.2.jpg"
+                          ]
+                        }  
+                      ]
+                    },
+                    {"label":"پنځم فصل: کوچني، لوى، سپك، دروند، اوږد، لنډ، او هندسي شکلونو پېژندنه.. ",
+                      "paths":"/lessons/Unit_5/lesson_23/lesson_23.jpg",
+                      "lessons":[
+                        {
+                          "label":" دری ویشتم لوست",
+                          "paths":[
+                            "/lessons/Unit_5/lesson_23/lesson_23.jpg"
+                          ]
+                        },
+                        {
+                          "label":"څلور ویشتم لوست",
+                          "paths":[
+                              "/lessons/Unit_5/lesson_24/lesson_24.jpg"
+                          ]
+                        },
+                        {
+                          "label":"پنځه ویشتم لوست",
+                          "paths":[
+                              "/lessons/Unit_5/lesson_25/lesson_25.jpg"
+                          ]
+                        },
+                        {
+                          "label":"شیر ویشتم لوست",
+                          "paths":[
+                              "/lessons/Unit_5/lesson_26/lesson_26.jpg"
+                          ]
+                        },
+                        {
+                          "label":"اووه ویشتم لوست",
+                          "paths":[
+                              "/lessons/Unit_5/lesson_27/lesson_27.jpg"
+                          ]
+                        },
+                        {
+                          "label":"اته ویشتم لوست ",
+                          "paths":[
+                              "/lessons/Unit_5/lesson_28/lesson_28.jpg"
+                          ]
+                        },
+                        {
+                          "label":" نهه ویشتم لوست ",
+                          "paths":[
+                              "/lessons/Unit_5/lesson_29/lesson_29.jpg"
+                          ]
+                        },
+                        {
+                          "label":"دیرشم لوست",
+                          "paths":[
+                              "/lessons/Unit_5/lesson_30/lesson_30.jpg"
+                          ]
+                        }
+                      ]
+                    },
+                    {"label":"/ شیرم فصل تر ۹۹ پورې د عددونو شميرل لوستل او ليکل او د يويزو او لسيزو پېژندنه /",
+                      "paths":"/lessons/Unit_6/lesson_31/lesson_31.jpg",
+                      "lessons":[
+                        {
+                          "label":"یو دیرشم لوست",
+                          "paths":[
+                            "lessons/Unit_6/lesson_31/lesson_31.jpg"
+                          ]
+                        },
+                        {
+                          "label":"دوه دیرشم لوست",
+                          "paths":[
+                            "lessons/Unit_6/lesson_32/lesson_32.jpg"
+                          ]
+                        },
+                        {
+                          "label":"دری دیرشم لوست",
+                          "paths":[
+                            "lessons/Unit_6/lesson_33/lesson_33.jpg",
+                            "lessons/Unit_6/lesson_33/lesson_33.1.jpg",
+                            "lessons/Unit_6/lesson_33/lesson_33.2.jpg",
+                            "lessons/Unit_6/lesson_33/lesson_33.3.jpg"
+                          ]
+                        },
+                        {
+                          "label":"څلور دیرشم لوست ",
+                          "paths":[
+                            "lessons/Unit_6/lesson_34/lesson_34.jpg",
+                            "lessons/Unit_6/lesson_34/lesson_34.1.jpg"
+                          ]
+                        },
+                        {
+                          "label":"پنځه دیرشم لوست",
+                          "paths":[
+                            "lessons/Unit_6/lesson_35/lesson_35.jpg",
+                            "lessons/Unit_6/lesson_35/lesson_35.1.jpg",
+                            "lessons/Unit_6/lesson_35/lesson_35.2.jpg",
+                            "lessons/Unit_6/lesson_35/lesson_35.3.jpg"
+                          ]
+                        },
+                        {
+                          "label":"شپردیرشم لوست ",
+                          "paths":[
+                            "lessons/Unit_6/lesson_36/lesson_36.jpg",
+                            "lessons/Unit_6/lesson_36/lesson_36.1.jpg",
+                            "lessons/Unit_6/lesson_36/lesson_36.2.jpg",
+                            "lessons/Unit_6/lesson_36/lesson_36.3.jpg",
+                            "lessons/Unit_6/lesson_36/lesson_36.4.jpg"
+                          ]
+                        }
+                      ]
+                     },
+                    {"label":"/ اووم فصل: د پوره لسگونونو جمع کول/",
+                      "paths":"/lessons/Unit_7/lesson_37/lesson_31.jpg",
+                      "lessons":[
+                        {
+                            "label":"اووه دیرشم لوست",
+                            "paths":[
+                              "lessons/Unit_7/lesson_37/lesson_37.jpg",
+                              "lessons/Unit_7/lesson_37/lesson_37.1.jpg"
+                            ]
+                        },
+                        {
+                          "label":"اته دیرشم لوست ",
+                          "paths":[
+                            "lessons/Unit_7/lesson_38/lesson_38.jpg",
+                            "lessons/Unit_7/lesson_38/lesson_38.1.jpg"
+                          ]
+                        }
+                      ]
+                    },
+                    { "label":"/اتم فصل: له يوه رقمي عدد سره د دوه رقمي عددونو جمع كول /",
+                      "paths":"/lessons/Unit_8/lesson_39/lesson_39.jpg",
+                      "lessons":[
+                        {
+                            "label":"نهه دیرشم لوست",
+                            "paths":[
+                              "lessons/Unit_8/lesson_39/lesson_39.jpg"
+                            ]
+                        },
+                        {
+                            "label":" څلویښتم لوست ",
+                            "paths":[
+                              "lessons/Unit_8/lesson_40/lesson_40.jpg",
+                              "lessons/Unit_8/lesson_40/lesson_40.1.jpg"
+                            ]
+                        }
+                      ]
+                    },
+                    {"label":"/نهم فصل: د دوو، دوه رقمي عددونو تفريق كول/",
+                      "paths":"/lessons/Unit_9/lesson_41/lesson_41.jpg",
+                      "lessons":[
+                        {
+                            "label":" یوڅلویښتم لوست ",
+                            "paths":[
+                              "lessons/Unit_9/lesson_41/lesson_41.jpg",
+                              "lessons/Unit_9/lesson_41/lesson_41.1.jpg"
+                            ]
+                        },
+                        {
+                            "label":"دوه څلویښتم لوست",
+                            "paths":[
+                              "lessons/Unit_9/lesson_42/lesson_42.jpg",
+                              "lessons/Unit_9/lesson_42/lesson_42.1jpg",
+                              "lessons/Unit_9/lesson_42/lesson_42.2.jpg",
+                              "lessons/Unit_9/lesson_42/lesson_42.3.jpg"
+                            ]
+                        },
+                        {
+                            "label":"دری څلویښتم لوست",
+                            "paths":[
+                              "lessons/Unit_9/lesson_43/lesson_43.jpg",
+                              "lessons/Unit_9/lesson_43/lesson_43.1.jpg"
+                            ]
+                        }
+                      ]
+                    }
+                   ],
+                  "download_pdf": "/pdf_book/G1-Ps-Math.pdf"
+                },
+                { "subject_path":"/Life_skills/",
+                  "label":"مهارت های زندگی",
+                  "parts":[
+                    {
+                      "label":"ځان پېژندنه ",
+                      "paths": [
+                        "/lessons/lesson_1/lesson_1.jpg",
+                        "/lessons/lesson_1/lesson_1.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"خدای پېژندنه",
+                      "paths": [
+                        "/lessons/lesson_2/lesson_2.jpg",
+                        "/lessons/lesson_2/lesson_2.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"هېواد پېژندنه ",
+                      "paths": [
+                        "/lessons/lesson_3/lesson_3.jpg",
+                        "/lessons/lesson_3/lesson_3.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" له ښوونځي سره بلدتيا",
+                      "paths": [
+                        "/lessons/lesson_4/lesson_4.jpg",
+                        "/lessons/lesson_4/lesson_4.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" د سلام ادبونه",
+                      "paths": [
+                        "/lessons/lesson_5/lesson_5.jpg",
+                        "/lessons/lesson_5/lesson_5.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" د روغبړ ادبونه",
+                      "paths": [
+                        "/lessons/lesson_6/lesson_6.jpg",
+                        "/lessons/lesson_6/lesson_6.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"د خبرو کولو ادبونه",
+                      "paths": [
+                        "/lessons/lesson_7/lesson_7.jpg",
+                        "/lessons/lesson_7/lesson_7.1.jpg"
+                      ]
+                    },
+                    {
+                      "label":"د مجلس ادبونه ",
+                      "paths": [
+                        "/lessons/lesson_8/lesson_8.jpg",
+                        "/lessons/lesson_8/lesson_8.1.jpg"
+                      ]
+                    },  
+                    {
+                      "label":"د خوړلو او څښلو ادبونه",
+                      "paths": [
+                        "/lessons/lesson_9/lesson_9.jpg",
+                        "/lessons/lesson_9/lesson_9.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"د مور او پلار درناوی",
+                      "paths": [
+                        "/lessons/lesson_10/lesson_10.jpg",
+                        "/lessons/lesson_10/lesson_10.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" د مشرانو درناوی ",
+                      "paths": [
+                        "/lessons/lesson_11/lesson_11.jpg",
+                        "/lessons/lesson_11/lesson_11.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"د گاونډیانو حقونه",
+                      "paths": [
+                        "/lessons/lesson_12/lesson_12.jpg",
+                        "/lessons/lesson_12/lesson_12.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" د ښوونکي درناوی ",
+                      "paths": [
+                        "/lessons/lesson_13/lesson_13.jpg",
+                        "/lessons/lesson_13/lesson_13.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"د لارې ادبونه",
+                      "paths": [
+                        "/lessons/lesson_14/lesson_14.jpg",
+                        "/lessons/lesson_14/lesson_14.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"په بازار کې د ادبونو مراعاتول",
+                      "paths": [
+                        "/lessons/lesson_15/lesson_15.jpg",
+                        "/lessons/lesson_15/lesson_15.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" د ټولگي ادبونه",
+                      "paths": [
+                        "/lessons/lesson_16/lesson_16.jpg",
+                        "/lessons/lesson_16/lesson_16.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"له ټولگيوالو سره ښې اړيکې ",
+                      "paths": [
+                        "/lessons/lesson_17/lesson_17.jpg",
+                        "/lessons/lesson_17/lesson_17.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"د درسي وسايلو سم کارول او ساتنه ",
+                      "paths": [
+                        "/lessons/lesson_18/lesson_18.jpg",
+                        "/lessons/lesson_18/lesson_18.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"د زده کړې ادبونه ",
+                      "paths": [
+                        "/lessons/lesson_19/lesson_19.jpg",
+                        "/lessons/lesson_19/lesson_19.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"ښه نیت ",
+                      "paths": [
+                        "/lessons/lesson_20/lesson_20.jpg",
+                        "/lessons/lesson_20/lesson_20.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" له برقي وسايلو څخه ځان ساتنه ",
+                      "paths": [
+                        "/lessons/lesson_21/lesson_21.jpg",
+                        "/lessons/lesson_21/lesson_21.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" ښه روغتیا ",
+                      "paths": [
+                        "/lessons/lesson_22/lesson_22.jpg",
+                        "/lessons/lesson_22/lesson_22.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"د ځان او کالیو پاکوالی",
+                      "paths": [
+                        "/lessons/lesson_23/lesson_23.jpg",
+                        "/lessons/lesson_23/lesson_23.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"  پاک خواړه او پاکې اوبه ",
+                      "paths": [
+                        "/lessons/lesson_24/lesson_24.jpg",
+                        "/lessons/lesson_24/lesson_24.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"دکور او ښوونځي پاک ساتل",
+                      "paths": [
+                        "/lessons/lesson_25/lesson_25.jpg",
+                        "/lessons/lesson_25/lesson_25.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"ورزش او روغتيا ",
+                      "paths": [
+                        "/lessons/lesson_26/lesson_26.jpg",
+                        "/lessons/lesson_26/lesson_26.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"تازه هوا",
+                      "paths": [
+                        "/lessons/lesson_27/lesson_27.jpg",
+                        "/lessons/lesson_27/lesson_27.1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"د چاپېریال ساتنه",
+                      "paths": [
+                        "/lessons/lesson_28/lesson_28.jpg",
+                        "/lessons/lesson_28/lesson_28.1.jpg"
+                       ]}
+                     ],
+                  "download_pdf": "/pdf_book/G1-Ps-Life_Skills.pdf"
+                },  
+                {"subject_path":"/Qurran/",
+                  "label":" دقرانکریم زه کره",
+                  "parts":[
+                    {
+                      "label":" دهجا توري",
+                      "paths": [
+                        "/lessons/lesson_1/lesson__1.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"ت ث ",
+                      "paths": [
+                        "/lessons/lesson_2/lesson_2.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"تطبیق",
+                      "paths": [
+                        "/lessons/lesson_3/lesson_3.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"ج ح خ",
+                      "paths": [
+                        "/lessons/lesson_4/lesson_4.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"د ذ ",
+                      "paths": [
+                        "/lessons/lesson_5/lesson_5.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"ر ز",
+                      "paths": [
+                        "/lessons/lesson_6/lesson_6.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"س ش ",
+                      "paths": [
+                        "/lessons/lesson_7/lesson_7.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"تطبیق",
+                      "paths": [
+                        "/lessons/lesson_8/lesson_8.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"ص ض",
+                      "paths": [
+                        "/lessons/lesson_9/lesson_9.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"ط ظ ",
+                      "paths": [
+                        "/lessons/lesson_10/lesson_10.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"ع غ ",
+                      "paths": [
+                        "/lessons/lesson_11/lesson_11.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"تطبیق",
+                      "paths": [
+                        "/lessons/lesson_12/lesson_12.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"ف ق ک",
+                      "paths": [
+                        "/lessons/lesson_13/lesson_13.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"ل م ن ",
+                      "paths": [
+                        "/lessons/lesson_14/lesson_14.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"و ه ",
+                      "paths": [
+                        "/lessons/lesson_15/lesson_15.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"ً ّ ی ",
+                      "paths": [
+                        "/lessons/lesson_16/lesson_16.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"تطبیق",
+                      "paths": [
+                        "/lessons/lesson_17/lesson_17.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" د هجا توري",
+                      "paths": [
+                        "/lessons/lesson_18/lesson_18.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" د هجا تورو پیژندل",
+                      "paths": [
+                        "/lessons/lesson_19/lesson_19.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" د تورو یوځای کول",
+                      "paths": [
+                        "/lessons/lesson_20/lesson_20.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" د مقطعاتو توري ",
+                      "paths": [
+                        "/lessons/lesson_21/lesson_21.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"د زور حرکت",
+                      "paths": [
+                        "/lessons/lesson_22/lesson_22.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" د زیر حرکت",
+                      "paths": [
+                        "/lessons/lesson_23/lesson_23.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"به کلمو کي د زېر د حرکت تطبيق",
+                      "paths": [
+                        "/lessons/lesson_24/lesson_24.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" د پېښ حرکت ( ُ)",
+                      "paths": [
+                        "/lessons/lesson_25/lesson_25.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" په کلمو کې د پېښ د حرکت تطبیق  ",
+                      "paths": [
+                        "/lessons/lesson_26/lesson_26.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" سکون ( ْ)",
+                      "paths": [
+                        "/lessons/lesson_27/lesson_27.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"په کلمو کي د سکون تطبيق",
+                      "paths": [
+                        "/lessons/lesson_28/lesson_28.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"  توری مد (فتحه+ا)( َ)",
+                      "paths": [
+                        "/lessons/lesson_29/lesson_29.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" ه کلمو کی د مد د توري فتحهه او د تطبيق ",
+                      "paths": [
+                        "/lessons/lesson_30/lesson_30.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"  ( ِ)توری مد(کسره+ی)",
+                      "paths": [
+                        "/lessons/lesson_31/lesson_31.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" په کلماتو کی د مدد توری (کسرهای) (م) پیژندنه ",
+                      "paths": [
+                        "/lessons/lesson_32/lesson_32.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"  ( ُ) توری مد (ضمه+و)",
+                      "paths": [
+                        "/lessons/lesson_33/lesson_33.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" په قرآني کلمو کې د مد د توري (ضمه و) (م) پيژندنه ",
+                      "paths": [
+                        "/lessons/lesson_34/lesson_34.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"تنوین دوه زوره ",
+                      "paths": [
+                        "/lessons/lesson_35/lesson_35.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" په قرآنی کلماتو کې د دوو زورنو (2) تطبيق  ",
+                      "paths": [
+                        "/lessons/lesson_36/lesson_36.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" تنوین (دوه زېرونه)",
+                      "paths": [
+                        "/lessons/lesson_37/lesson_37.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"به قرآنی کلمو کي د دوو زیرونو (با تطبیقي",
+                      "paths": [
+                        "/lessons/lesson_38/lesson_38.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"تنوین (دوه پیشونه) ",
+                      "paths": [
+                        "/lessons/lesson_39/lesson_39.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"په قرآني کلمو کې د دوو پیښونو (۵) تطبيقي",
+                      "paths": [
+                        "/lessons/lesson_40/lesson_40.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"شَدّ( ّ)",
+                      "paths": [
+                        "/lessons/lesson_41/lesson_41.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"شدّ( ً)",
+                      "paths": [
+                        "/lessons/lesson_42/lesson_42.jpg",
+                        "/lessons/lesson_42/lesson_42.1jpg",
+                        "/lessons/lesson_42/lesson_42.2jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"په قرآني کلمو کي د شد تطبيق",
+                      "paths": [
+                        "/lessons/lesson_43/lesson_43.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"دایت لوستل ",
+                      "paths": [
+                        "/lessons/lesson_44/lesson_44.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" دایت لوستل ",
+                      "paths": [
+                        "/lessons/lesson_45/lesson_45.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" دایت لوستل ",
+                      "paths": [
+                        "/lessons/lesson_46/lesson_46.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"  د فاتحې سورت حفظ",
+                      "paths": [
+                        "/lessons/lesson_47/lesson_47.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" د اخلاص سورت",
+                      "paths": [
+                        "/lessons/lesson_48/lesson_48.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" د اخلاص سورت (۲) ",
+                      "paths": [
+                        "/lessons/lesson_49/lesson_49.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"د اخلاص سورت حفظ  ",
+                      "paths": [
+                        "/lessons/lesson_50_lesson_50.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" دایت لوستل",
+                      "paths": [
+                        "/lessons/lesson_51/lesson_51.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" دایت لوستل",
+                      "paths": [
+                        "/lessons/lesson_52/lesson_52.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" دکوثر سورت حفظ  ",
+                      "paths": [
+                        "/lessons/lesson_53/lesson_53.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" دایت لوستل",
+                      "paths": [
+                        "/lessons/lesson_54/lesson_54.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":" دایت لوستل",
+                      "paths": [
+                        "/lessons/lesson_55/lesson_55.jpg"
+                      ]
+                    }, 
+                    {
+                      "label":"  د عصر سورت حفظ  ",
+                      "paths": [
+                        "/lessons/lesson_56/lesson_56.jpg"
+                      ]
+                    }
+                  ],
+                  "download_pdf": "/pdf_book/G1-Ps-Quran.pdf"
+                },
+                {"subject_path":"/Pashto/",
+                "label":"پشتو",
+                "parts":[
+                  {
+                    "label":" الفبا ",
+                    "paths": [
+                      "/lessons/Alphabet/Alphabet.jpg",
+                      "/lessons/Alphabet/Alphabet_photo_1.jpg",
+                      "/lessons/Alphabet/Alphabet_photo_2.jpg",
+                      "/lessons/Alphabet/Alphabet_photo_3.jpg",
+                      "/lessons/Alphabet/Alphabet_photo_4.jpg",
+                      "/lessons/Alphabet/Alphabet_photo_5.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":" لومري لوست ",
+                    "paths": [
+                      "/lessons/lesson_1/lesson_1.jpg",
+                      "/lessons/lesson_1/lesson_1.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"دوهم لوست",
+                    "paths": [
+                      "/lessons/lesson_2/lesson_2.jpg",
+                      "/lessons/lesson_2/lesson_2.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"دریم لوست",
+                    "paths": [
+                      "/lessons/lesson_3/lesson_3.jpg",
+                      "/lessons/lesson_3/lesson_3.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"څلورم لوست",
+                    "paths": [
+                      "/lessons/lesson_4/lesson_4.jpg",
+                      "/lessons/lesson_4/lesson_4.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"پنځم لوست",
+                    "paths": [
+                      "/lessons/lesson_5/lesson_5.jpg",
+                      "/lessons/lesson_5/lesson_5.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"شپږم لوست ",
+                    "paths": [
+                      "/lessons/lesson_6/lesson_6.jpg",
+                      "/lessons/lesson_6/lesson_6.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"اووم لوست",
+                    "paths": [
+                      "/lessons/lesson_7/lesson_7.jpg",
+                      "/lessons/lesson_7/lesson_7.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"اتم لوست",
+                    "paths": [
+                      "/lessons/lesson_8/lesson_8.jpg",
+                      "/lessons/lesson_8/lesson_8.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":" نهم لوست",
+                    "paths": [
+                      "/lessons/lesson_9/lesson_9.jpg",
+                      "/lessons/lesson_9/lesson_9.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"لسم لوست ",
+                    "paths": [
+                      "/lessons/lesson_10/lesson_10.jpg",
+                      "/lessons/lesson_10/lesson_10.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"یولسم لوست",
+                    "paths": [
+                      "/lessons/lesson_11/lesson_11.jpg",
+                      "/lessons/lesson_11/lesson_11.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"دولسم لوست",
+                    "paths": [
+                      "/lessons/lesson_12/lesson_12.jpg",
+                      "/lessons/lesson_12/lesson_12.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"دیارلسم لوست",
+                    "paths": [
+                      "/lessons/lesson_13/lesson_13.jpg",
+                      "/lessons/lesson_13/lesson_13.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"څوارلسم لوست",
+                    "paths": [
+                      "/lessons/lesson_14/lesson_14.jpg",
+                      "/lessons/lesson_14/lesson_14.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":" پنځلسم لوست",
+                    "paths": [
+                      "/lessons/lesson_15/lesson_15.jpg",
+                      "/lessons/lesson_15/lesson_15.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"ً شپارلسم لوست ",
+                    "paths": [
+                      "/lessons/lesson_16/lesson_16.jpg",
+                      "/lessons/lesson_16/lesson_16.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"اوولسم لوست",
+                    "paths": [
+                      "/lessons/lesson_17/lesson_17.jpg",
+                      "/lessons/lesson_17/lesson_17.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"اتلسم لوست",
+                    "paths": [
+                      "/lessons/lesson_18/lesson_18.jpg",
+                      "/lessons/lesson_18/lesson_18.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"نولسم لوست",
+                    "paths": [
+                      "/lessons/lesson_19/lesson_19.jpg",
+                      "/lessons/lesson_19/lesson_19.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":" شلم لوست",
+                    "paths": [
+                      "/lessons/lesson_20/lesson_20.jpg",
+                      "/lessons/lesson_20/lesson_20.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"یوویشتم لوست",
+                    "paths": [
+                      "/lessons/lesson_21/lesson_21.jpg",
+                      "/lessons/lesson_21/lesson_21.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"دوه ویشتم لوست",
+                    "paths": [
+                      "/lessons/lesson_22/lesson_22.jpg",
+                      "/lessons/lesson_22/lesson_22.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":" درویشتم لوست",
+                    "paths": [
+                      "/lessons/lesson_23/lesson_23.jpg",
+                      "/lessons/lesson_23/lesson_23.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"څلورویشتم لوست",
+                    "paths": [
+                      "/lessons/lesson_24/lesson_24.jpg",
+                      "/lessons/lesson_24/lesson_24.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":" پنځه ویشتم لوست",
+                    "paths": [
+                      "/lessons/lesson_25/lesson_25.jpg",
+                      "/lessons/lesson_25/lesson_25.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"شپږ ویشتم لوست",
+                    "paths": [
+                      "/lessons/lesson_26/lesson_26.jpg",
+                      "/lessons/lesson_26/lesson_26.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"اووه ویشتم لوست",
+                    "paths": [
+                      "/lessons/lesson_27/lesson_27.jpg",
+                      "/lessons/lesson_27/lesson_27.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":" اته ویشتم لوست",
+                    "paths": [
+                      "/lessons/lesson_28/lesson_28.jpg",
+                      "/lessons/lesson_28/lesson_28.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":" نهه ويشتم لوست",
+                    "paths": [
+                      "/lessons/lesson_29/lesson_29.jpg",
+                      "/lessons/lesson_29/lesson_29.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"دیرشم لوست ",
+                    "paths": [
+                      "/lessons/lesson_30/lesson_30.jpg",
+                      "/lessons/lesson_30/lesson_30.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"یو دیرشم لوست",
+                    "paths": [
+                      "/lessons/lesson_31/lesson_31.jpg",
+                      "/lessons/lesson_31/lesson_31.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":" دوه دیرشم لوست ",
+                    "paths": [
+                      "/lessons/lesson_32/lesson_32.jpg",
+                      "/lessons/lesson_32/lesson_32.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":" دری دیرشم لوست",
+                    "paths": [
+                      "/lessons/lesson_33/lesson_33.jpg",
+                      "/lessons/lesson_33/lesson_33.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":" څلوردیرشم لوست ",
+                    "paths": [
+                      "/lessons/lesson_34/lesson_34.jpg",
+                      "/lessons/lesson_34/lesson_34.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":" پنځه دیرشم لوست ",
+                    "paths": [
+                      "/lessons/lesson_35/lesson_35.jpg",
+                      "/lessons/lesson_35/lesson_35.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"شپږدیرشم لوست",
+                    "paths": [
+                      "/lessons/lesson_36/lesson_36.jpg",
+                      "/lessons/lesson_36/lesson_36.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"اووه دبرشم لوست",
+                    "paths": [
+                      "/lessons/lesson_37/lesson_37.jpg",
+                      "/lessons/lesson_37/lesson_37.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"اته دیرشم لوست",
+                    "paths": [
+                      "/lessons/lesson_38/lesson_38.jpg",
+                      "/lessons/lesson_38/lesson_38.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":" نهه دیرشم لوست",
+                    "paths": [
+                      "/lessons/lesson_39/lesson_39.jpg",
+                      "/lessons/lesson_39/lesson_39.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"څلویښتم لوست",
+                    "paths": [
+                      "/lessons/lesson_40/lesson_40.jpg",
+                      "/lessons/lesson_40/lesson_40.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"یوڅلویښتم لوست ",
+                    "paths": [
+                      "/lessons/lesson_41/lesson_41.jpg",
+                      "/lessons/lesson_41/lesson_41.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"دوه څلویښتم لوست ",
+                    "paths": [
+                      "/lessons/lesson_42/lesson_42.jpg",
+                      "/lessons/lesson_42/lesson_42.1jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"دری  څلویښتم لوست",
+                    "paths": [
+                      "/lessons/lesson_43/lesson_43.jpg",
+                      "/lessons/lesson_43/lesson_43.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"څلورڅلویښتم لوست",
+                    "paths": [
+                      "/lessons/lesson_44/lesson_44.jpg",
+                      "/lessons/lesson_44/lesson_44.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"پنځه څلویښتم لوست ",
+                    "paths": [
+                      "/lessons/lesson_45/lesson_45.jpg",
+                      "/lessons/lesson_45/lesson_45.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"شپږڅلویښتم لوست",
+                    "paths": [
+                      "/lessons/lesson_46/lesson_46.jpg",
+                      "/lessons/lesson_46/lesson_46.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":" اووه څلویښتم لوست ",
+                    "paths": [
+                      "/lessons/lesson_47/lesson_47.jpg",
+                      "/lessons/lesson_47/lesson_47.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":" اته څلویښتم لوست",
+                    "paths": [
+                      "/lessons/lesson_48/lesson_48.jpg",
+                      "/lessons/lesson_48/lesson_48.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"نهه څلویښتم لوست",
+                    "paths": [
+                      "/lessons/lesson_49/lesson_49.jpg",
+                      "/lessons/lesson_49/lesson_49.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":" پنځوسم لوست",
+                    "paths": [
+                      "/lessons/lesson_50_lesson_50.jpg",
+                      "/lessons/lesson_50_lesson_50.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":" یو پنځوسم لوست",
+                    "paths": [
+                      "/lessons/lesson_51/lesson_51.jpg",
+                      "/lessons/lesson_51/lesson_51.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":" دوه پنځوسم لوست",
+                    "paths": [
+                      "/lessons/lesson_52/lesson_52.jpg",
+                      "/lessons/lesson_52/lesson_52.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"دری پنځوسم لوست",
+                    "paths": [
+                      "/lessons/lesson_53/lesson_53.jpg",
+                      "/lessons/lesson_53/lesson_53.1.jpg"
+                    ]
+                  }, 
+                  {
+                    "label":"څلورپنځوسم لوست",
+                    "paths": [
+                      "/lessons/lesson_54/lesson_54.jpg",
+                      "/lessons/lesson_54/lesson_54.1.jpg"
+                    ]
+                  }
+                ],
+                "download_pdf": "/pdf_book/G1-Ps-Pashto.pdf"
+                }
+              ]    
+        }]
+}}}
