@@ -6,7 +6,7 @@
           "grades":[
             {
               "grade_path":"/tenth_grade/",
-              "label":"صنف تولگی",
+              "label":"لسم تولگی",
               "subjects":[
                 { "subject_path":"/biology/",
                   "label":"بیولوژی ",
